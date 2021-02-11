@@ -17,4 +17,4 @@ author_profile: true
 
 5. Yuzhe Tang, Ju Chen, **Kai Li**. "Log-Structured Authenticated Data Structures for Secure Cloud Storage with Minimal Trust", **SecureComm 2019**, <span style="color:blue">[[paper]](https://eprint.iacr.org/2016/1063.pdf)</span>
  
-6. Qiwu Zou, Yuzhe Tang, Ju Chen, **Kai Li**, Charles Kamoua, Kevin Kwiat, Laurent Njilla. "ChainFS: Blockchain-Secured Cloud Storage", **IEEE Cloud 2018**, <span style="color:blue"> [[Slides]](https://docs.google.com/presentation/d/1uDqvJjPWF6YIo8bb-vfAgCU7SCaoRTLHdrEegTEeyd0/edit#slide=id.g3d35a20df5_0_0)</span>
+6. Qiwu Zou, Yuzhe Tang, Ju Chen, **Kai Li**, Charles Kamoua, Kevin Kwiat, Laurent Njilla. "ChainFS: Blockchain-Secured Cloud Storage", **IEEE Cloud 2018**, <span style="color:blue"> [[slides]](https://docs.google.com/presentation/d/1uDqvJjPWF6YIo8bb-vfAgCU7SCaoRTLHdrEegTEeyd0/edit#slide=id.g3d35a20df5_0_0)</span>
