@@ -17,13 +17,12 @@ Education
 
 Work experience
 ======
-* Fall 2018: Research Assistant
-  * Syracuse University
-  * Duties included: Leveraging the public Blockchain to verify the consistency of distributed cloud storage, implemented the storage auditing protocol in both Bitcoin and Ethereum.
 
-* Spring 2018: Research Assistant
+* Spring 2018 - Spring 2021: Research Assistant
   * Syracuse University
-  * Duties included: Hijacking LLVM on the backend level (llc), adding TSX features, e.g., xbegin, xend when compile X86 binaries, the purpose is partitioning the binary into multiple execution unit by TSX.
+  * Identified a severe vulnerability in Ethereum RPC API that leads to DoS attack on the public RPC services. The API (eth_call) allows an attacker to execute any resource-consuming functions. A novel measurement method is proposed to uncover the load balance's policies adopted by the RPC services and facilitate the attacker to mount the DoS attack.
+  * Leveraging the public Blockchain to verify the consistency of distributed cloud storage, proposed and implemented an storage consistency auditing protocol in both Bitcoin and Ethereum.
+  * Hijacking LLVM on the backend level (llc), adding TSX features, e.g., xbegin, xend when compile X86 binaries, the purpose is partitioning the binary into multiple execution unit by TSX.
   
 * 08/2015 - 08/2017: Software Engineer
   * ZTE Corpration
@@ -36,3 +35,6 @@ Skills
 * Blockchain: Bitcoin, Ethereum, Multi-Chain, Smart Contract.
 * CDN: Nginx, Tomcat (Apache)
 
+Awards
+===
+1. NDSS 2021 Student Travel Grant
