@@ -37,4 +37,4 @@ Skills
 
 Awards
 ===
-1. NDSS 2021 Student Travel Grant
+* NDSS 2021 Student Travel Grant
