@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * PhD in Electrical and Computer Engineering, Syracuse University, 2022 (expected)
-* B.E in Electrical Engineering, Nanjing University of Arenautics and Astronautics, 2015
+* B.Eng in Electrical Engineering, Nanjing University of Arenautics and Astronautics, 2015
 
 Research Experience
 ======
