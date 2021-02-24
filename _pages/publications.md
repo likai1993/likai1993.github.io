@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true 
 ---
 <!--1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. Title to be available, **NDSS 2021**-->
-1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. "As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service", **NDSS 2021**.
+1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. "As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service", **NDSS 2021**, AR=15.2%. <span style="color:blue">[[paper]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf)</span>
 
 
-2. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Zhehu Yuan, Cheng Xu, Jianliang Xu. "Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication", **Middleware 2020**, <span style="color:blue">[[paper]](https://arxiv.org/pdf/1911.04078.pdf)</span> [[code]](https://github.com/syracuse-fullstacksecurity/GRuB)
+2. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Zhehu Yuan, Cheng Xu, Jianliang Xu. "Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication", **Middleware 2020**, AR=25.2%. <span style="color:blue">[[paper]](https://arxiv.org/pdf/1911.04078.pdf)</span> [[code]](https://github.com/syracuse-fullstacksecurity/GRuB)
 
 3. Yuzhe Tang, **Kai Li**, Yibo Wang, Sencer Burak Somuncuoglu. "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention", **SERIAL 2020**, <span style="color:blue">[[paper]](https://dl.acm.org/doi/pdf/10.1145/3429884.3430032)</span>
 
