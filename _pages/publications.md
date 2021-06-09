@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true 
 ---
 <!--1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. Title to be available, **NDSS 2021**-->
+1. Yibo Wang, Qi Zhang, **Kai Li**, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. "iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations",  **ESEC/FSE 2021**, AR=24.5%. <span style="color:blue">[[paper]](https://2021.esec-fse.org/details/fse-2021-papers/37/Towards-Practical-and-Cost-Effective-Batching-of-Smart-Contract-Invocations-on-Ethere)</span>
+
 1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. "As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service", **NDSS 2021**, AR=15.2%. <span style="color:blue">[[paper]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf)</span>
 
 
