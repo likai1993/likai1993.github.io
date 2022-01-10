@@ -12,10 +12,10 @@ Conference Papers
 
 1. **Kai Li**, Yibo Wang, Yuzhe Tang. DETER: Denial of Ethereum Txpool sERvices, **ACM CCS 2021**. AR=22%. <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369)</span>, <span style="color:blue">[[medium report (Korean)]](https://medium.com/decipher-media/deter-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%ED%92%80%EC%9D%84-%EB%B9%84%EC%9B%8C%EB%82%B4%EB%8A%94-%EA%B3%B5%EA%B2%A9-4476ad5ae506)</span>.
 
+1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. "As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service", **NDSS 2021**, AR=15.2%. <span style="color:blue">[[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf)</span>, <span style="color:blue">[[medium report (Korean)]](https://medium.com/decipher-media/as-strong-as-its-weakest-link-rpc-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%86%B5%ED%95%B4-dapp-%EC%9E%A5%EC%95%A0%EB%A5%BC-%EC%9C%A0%EB%B0%9C-23dbf561f0fa)</span>.
+
 1. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Yibo Wang, Xianghong Liu. TopoShot: Uncovering Ethereum's Network Topology Leveraging Replacement Transactions, **ACM IMC 2021**, AR=28%.
  <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3487552.3487814)</span>
-
-1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. "As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service", **NDSS 2021**, AR=15.2%. <span style="color:blue">[[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf)</span>, <span style="color:blue">[[medium report (Korean)]](https://medium.com/decipher-media/as-strong-as-its-weakest-link-rpc-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%86%B5%ED%95%B4-dapp-%EC%9E%A5%EC%95%A0%EB%A5%BC-%EC%9C%A0%EB%B0%9C-23dbf561f0fa)</span>.
 
 1. Yibo Wang, Qi Zhang, **Kai Li**, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. "iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations",  **ESEC/FSE 2021**, AR=24.5%. <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3468264.3468568)</span>
 
