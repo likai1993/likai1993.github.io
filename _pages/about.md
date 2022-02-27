@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ----
-*Nov. 2021*: **I am on the job market this year, if you have positions in cybersecurity, I'd love to get in touch!**. 
+*Nov. 2021*: **I am on the job market this year, if you have positions in cybersecurity, I'd love to get in touch!** 
 <span style="color:blue">[[CV]](https://drive.google.com/file/d/1DdU-l0AXWeV6LPEUiJITw4lgr1Ayn5t7/view?usp=sharing), <span style="color:blue">[[Research Statement]](https://drive.google.com/file/d/1ceU42d-2AEIRdpUJ-MLY_N-0NM_JvLf-/view?usp=sharing), <span style="color:blue">[[Teaching Statement]](https://drive.google.com/file/d/18SLHXxD5Oi80fBZhDYciaUSTSPI9zLjP/view?usp=sharing), <span style="color:blue">[[Diversity Statement]](https://drive.google.com/file/d/1o_RshuatlHKTq1jgpinTFbmufPyGwAJH/view?usp=sharing).
 
 
