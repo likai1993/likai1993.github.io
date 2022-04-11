@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ----
-*Nov. 2021*: **I will be joining the department of Computer Science at SDSU as a tenure-track Assistant Professor. Thanks everyone for the support!** 
+*Nov. 2021*: **I will be joining the Dept. of CS at SDSU as a tenure-track Assistant Professor. Thanks everyone for the support!** 
   
 ~~*Nov. 2021*: **I am on the job market this year, if you have positions in cybersecurity, I'd love to get in touch!**~~
 
