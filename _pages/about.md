@@ -17,8 +17,8 @@ News
 
 Short Bio
 ----
-I am a Ph.D. candidate in Electrical and Computer Engineering at Syracuse University [[SU]](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science), I am honorable to be advised by [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). My research interests lie in security evaluation, vulnerability detection and mitigation, and performance optimization, with current focus on Blockchain. My research papers were published in top cyber-security and systems conferences, including ACM CCS, NDSS, ACM IMC, ACM Middleware, ESEC/FSE, etc.
+I am an incoming Assistant Professor in the Dept. of CS at San Diego State University. My research interests lie in security evaluation, vulnerability detection, and performance optimization, with current focus on Blockchain. I received my Ph.D. in Electrical and Computer Engineering from Syracuse University [[SU]](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science) in 2022, working with [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). I received my B.Eng from Nanjing University of Aeronautics and Astronautic [[NUAA]](http://www.nuaa.edu.cn) in 2015.
 
-Specifically, my current research focuses on evaluating the security and mitigating the design flaws in permissionless Blockchain platforms, including Bitcoin and Ethereum. I have a solid understanding of Ethereum's codebase (e.g., Geth, Parity/OpenEthereum), with expertise in Ethereum's APIs, p2p protocol, memory pool and smart contracts, etc. 
+Specifically, my current research focuses on evaluating the security and mitigating design flaws in permissionless Blockchains, including Bitcoin and Ethereum. I have a solid understanding of Ethereum's codebase (e.g., Geth, Parity/OpenEthereum), with expertise in Ethereum's APIs, p2p protocol, memory pool and smart contracts, etc. 
 
-Previously, I received a B.Eng from Nanjing University of Aeronautics and Astronautic [[NUAA]](http://www.nuaa.edu.cn) in 2015. After that, I spent two years at [ZTE](http://www.zte.com.cn/global/) as a full-time software engineer working on CDN development.
+
