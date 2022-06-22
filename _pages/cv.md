@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in ECE, Syracuse University, 2022 (expected)
-* B.Eng in EE, NUAA, 2015
+* Ph.D. in ECE, Syracuse University, 2022
+* B.Eng. in EE, NUAA, 2015
 
 Research Experience
 ======
@@ -29,6 +29,8 @@ Teaching Experience
 
 Work Experience
 ======
+* 06/2021 - 08/2021　　　　Research Intern　　　　　　**Amazon AWS**
+  * Improving Aurora Mysql's replication performance with multiple threaded secondary index updates.
 * 06/2020 - 08/2020　　　　Research Intern　　　　　　**IBM Research**
   * Applying Deep Reinforcement Learning (DRL) to improve the buffer hit ratio in popular databases. 
 * 08/2015 - 08/2017　　　　Software Engineer　　　　　**ZTE** R&D Centre
