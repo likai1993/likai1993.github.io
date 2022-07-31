@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ----
-*Jun. 2022*: **I am looking for self-motivated students to work on system security! If you are interested in my research, feel free to drop me an email!** 
+*Jun. 2022*: **I am looking for self-motivated students to work on system security! If you are interested in my research, welcome to contact me!** 
 
 ~~*Mar. 2022*: **I will be joining the Dept. of CS at SDSU as a tenure-track Assistant Professor. Thanks everyone for the support!**~~
   
