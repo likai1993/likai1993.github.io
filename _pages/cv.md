@@ -24,8 +24,9 @@ Research Experience
 
 Teaching Experience
 =====
+* Fall 2022, CS530 Systems Programming
 * Spring 2022, CSE384 Systems and Network Programming
-* Fall 2021, CIS629 Blockchain: Foundation and Applications
+* Fall 2021, CIS629  Blockchain: Foundation and Applications
 
 Work Experience
 ======
