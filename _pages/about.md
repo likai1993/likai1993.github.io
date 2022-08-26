@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ----
- **I am looking for self-motivated students to work on system security! If you are interested in my research, welcome to contact me!** 
+ **I am looking for self-motivated students to work on system security. If you are interested in my research, welcome to contact me!** 
 
 
 Short Bio
