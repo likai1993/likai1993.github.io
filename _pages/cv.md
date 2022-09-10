@@ -39,8 +39,9 @@ Work Experience
 
 Professional Services
 ======
-* PC: BlockDM 2021 (ICDE workshop)
-* Reviewer: WWW 2020/2021, IEEE BigData 2019/2020, IEEE Cloud 2018, ACM CODASPY 2019, IEEE Internet of Things Journal.
+* Editorial Board: IEEE Transactions on Learning Technology, Internet of Things and Cloud Computing
+* PC member: ACM CODASPY 2023, B2C 2022, BlockDM 2021
+* Reviewer: WWW 2020, IEEE BigData 2019/2020, ACM CODASPY 2019, IEEE Cloud 2018, IEEE Internet of Things, IEEE Transactions on Cloud Computing, IEEE Intelligent Transportation Systems Magazine, Data Science and Engineering.
   
 Skills
 ======
@@ -51,6 +52,7 @@ Skills
 
 Awards
 ===
+* 2022 NortonLife Fellowship Finalist
 * ACM CCS 2021 Student Grant
 * IEEE S&P 2021 Student Grant
 * NDSS 2021 Student Grant
