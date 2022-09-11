@@ -52,7 +52,7 @@ Skills
 
 Awards
 ===
-* 2022 NortonLife Fellowship Finalist
+* 2022 NortonLifeLock Fellowship Finalist
 * ACM CCS 2021 Student Grant
 * IEEE S&P 2021 Student Grant
 * NDSS 2021 Student Grant
