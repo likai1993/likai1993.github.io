@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D. in ECE, Syracuse University, 2022
-* B.Eng. in EE, NUAA, 2015
 
 Research Experience
 ======
@@ -40,7 +39,7 @@ Work Experience
 Professional Services
 ======
 * Editorial Board: IEEE Transactions on Learning Technology, Internet of Things and Cloud Computing
-* PC member: ACM CODASPY 2023, B2C 2022, BlockDM 2021
+* PC member: ACM CODASPY 2023, ICCCN 2023, B2C 2022, BlockDM 2021
 * Reviewer: WWW 2020, IEEE BigData 2019/2020, ACM CODASPY 2019, IEEE Cloud 2018, IEEE Internet of Things, IEEE Transactions on Cloud Computing, IEEE Intelligent Transportation Systems Magazine, Data Science and Engineering.
   
 Skills
