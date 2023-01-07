@@ -36,6 +36,7 @@ Conference Papers
 
 Workshop Papers
 ----
-1. Kai Li, Qi Zhang, Lei Yu, Min Hong. "DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning", **Workshop on Databases and AI @NeurIPS 2021**.
+1. Yibo Wang, Kai Li, Yuzhe Tang, “Towards the Comprehensive Understanding of Ethereum Mempool DoS Security,” **ConsensysDay@ACM CCS 2022**.
+1. Kai Li, Qi Zhang, Lei Yu, Min Hong. "DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning", **DBAI @NeurIPS 2021**.
 1. Yuzhe Tang, **Kai Li**, Yibo Wang, Sencer Burak Somuncuoglu. "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention", **SERIAL 2020**, <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3429884.3430032)</span>
 
