@@ -7,6 +7,11 @@ author_profile: true
 <!--1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. Title to be available, **NDSS 2021**-->
 <!--1. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Yibo Wang, Xianghong Liu. "TopoShot: Uncovering Ethereum's Network Topology Leveraging Replacement Transactions", **IMC 2021**. AR=28%.-->
 
+Journal Papers
+----
+1. Yibo Wang, Kai Li, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, and Ting Chen, “Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations,” **IEEE Transactions on Software Engineering, 2023**.
+1. Yuzhe Tang, Kai Li, Katchaguy Areekijseree, Shuigeng Zhou, Liting Hu. "Privacy-Preserving Multi-Party Directory Services", EAI Endorsed Transactions on Security and Safety.
+
 Conference Papers
 ----
 
@@ -33,8 +38,4 @@ Workshop Papers
 ----
 1. Kai Li, Qi Zhang, Lei Yu, Min Hong. "DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning", **Workshop on Databases and AI @NeurIPS 2021**.
 1. Yuzhe Tang, **Kai Li**, Yibo Wang, Sencer Burak Somuncuoglu. "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention", **SERIAL 2020**, <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3429884.3430032)</span>
-
-Journal Papers
-----
-1. Yuzhe Tang, Kai Li, Katchaguy Areekijseree, Shuigeng Zhou, Liting Hu. "Privacy-Preserving Multi-Party Directory Services", EAI Endorsed Transactions on Security and Safety.
 
