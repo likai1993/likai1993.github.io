@@ -9,8 +9,8 @@ author_profile: true
 
 Journal Papers
 ----
-1. Yibo Wang, Kai Li, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, and Ting Chen, “Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations,” **IEEE Transactions on Software Engineering, 2023**.
-1. Yuzhe Tang, Kai Li, Katchaguy Areekijseree, Shuigeng Zhou, Liting Hu. "Privacy-Preserving Multi-Party Directory Services", EAI Endorsed Transactions on Security and Safety.
+1. Yibo Wang, **Kai Li**, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, and Ting Chen, “Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations,” **IEEE Transactions on Software Engineering, 2023**.
+1. Yuzhe Tang, **Kai Li**, Katchaguy Areekijseree, Shuigeng Zhou, Liting Hu. "Privacy-Preserving Multi-Party Directory Services", EAI Endorsed Transactions on Security and Safety.
 
 Conference Papers
 ----
@@ -36,7 +36,7 @@ Conference Papers
 
 Workshop Papers
 ----
-1. Yibo Wang, Kai Li, Yuzhe Tang, “Towards the Comprehensive Understanding of Ethereum Mempool DoS Security,” **ConsensysDay@ACM CCS 2022**.
-1. Kai Li, Qi Zhang, Lei Yu, Min Hong. "DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning", **DBAI @NeurIPS 2021**.
+1. Yibo Wang, **Kai Li**, Yuzhe Tang, “Towards the Comprehensive Understanding of Ethereum Mempool DoS Security,” **ConsensysDay@ACM CCS 2022**.
+1. **Kai Li**, Qi Zhang, Lei Yu, Min Hong. "DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning", **DBAI @NeurIPS 2021**.
 1. Yuzhe Tang, **Kai Li**, Yibo Wang, Sencer Burak Somuncuoglu. "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention", **SERIAL 2020**, <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3429884.3430032)</span>
 
