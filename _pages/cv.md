@@ -19,7 +19,7 @@ Research Projects
   * Detecting emerging cryptocurrency scams spread on social networks.
 
 * Spring 2021 - Fall 2022: **Ethereum Mempool Security**
-  * Discovered several zero-day DoS against Ethereum memory pool that affect real-world miners and transaction relay services. The vulnerability was disclosed with two CVEs assigned.
+  * Discovered several zero-day DoS attacks against Ethereum memory pool that affect real-world miners and transaction relay services. The vulnerability was disclosed with two CVEs assigned.
 
 * Spring 2021 - Spring 2021: **Ethereum P2P Network Topology**
   * Devised a novel technique, TopoShot, for uncovering real Ethereum P2P network topology. 
