@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in ECE, Syracuse University, 2022
 
-Research Project
+Research Projects
 ======
 * Fall 2022 - Now: **Cryptocurrency Scam Detection**
   * Detecting emerging cryptocurrency scams spread on social networks.
@@ -38,11 +38,11 @@ Teaching Experience
 * Spring 2022, CSE384 Systems and Network Programming
 * Fall 2021, CIS629  Blockchain: Foundation and Applications
 
-Work Experience
+Industry Experience
 ======
 * 06/2021 - 08/2021　　　　Research Intern　　　　　　**Amazon AWS**
-* 06/2020 - 08/2020　　　　Research Intern　　　　　　**IBM Research**
-* 08/2015 - 08/2017　　　　Software Engineer　　　　　**ZTE** R&D Centre
+* 06/2020 - 08/2020　　　  Research Intern　　　　　　**IBM Research**
+* 08/2015 - 08/2017　　　　Software Engineer　　　　　**ZTE**
 
 Professional Services
 ======
