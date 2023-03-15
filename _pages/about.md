@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ----
-2023-03: Our work on Decentralized Exchange (DEX) security has been accepted to EuroSP 2023!
+2023-03: Our work on Decentralized Exchange (DEX) security accepted to EuroS&P 2023!
 
 2023-01: Invited to serve on the TPC of ICCCN 2023.
 
