@@ -14,6 +14,7 @@ Journal Papers
 
 Conference Papers
 ----
+1.  Jiaqi Chen, Yibo Wang, Yuxuan Zhou, Wanning Ding, Yuzhe Tang, XiaoFeng Wang, **Kai Li**. Uncovering Atomicity Violations and Security Risks in Decentralized Exchange in the Wild, **Euro S&P 2023**.
 
 1. **Kai Li**, Yibo Wang, Yuzhe Tang. DETER: Denial of Ethereum Txpool sERvices, **ACM CCS 2021**. AR=22%. <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369)</span>, <span style="color:blue">[[medium report (Korean)]](https://medium.com/decipher-media/deter-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%ED%92%80%EC%9D%84-%EB%B9%84%EC%9B%8C%EB%82%B4%EB%8A%94-%EA%B3%B5%EA%B2%A9-4476ad5ae506)</span>. <span style="color:blue"> [[report (Chinese)]](https://paperexplained.cn/articles/article/sdetail/bf772404-411f-4adf-a139-c2e94cd5cd97/)</span>, <span style="color:blue">[[CVE-2022-23327]](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23327)</span>, <span style="color:blue">[[CVE-2022-23328]](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23328) </span>.
 
