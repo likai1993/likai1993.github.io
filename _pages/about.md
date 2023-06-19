@@ -10,11 +10,13 @@ redirect_from:
 
 News
 ----
-2023-03: Our work on Decentralized Exchange (DEX) security accepted to EuroS&P 2023!
+2023-06: One proposal submitted to Ethereum Academic Grant is selected for funding. Thanks, Ethereum Foundation!
+
+2023-03: One co-authored paper on Decentralized Exchange (DEX) security was accepted to EuroS&P 2023!
 
 2023-01: Invited to serve on the TPC of ICCCN 2023.
 
-2022-10: Inivted to serve on the TPC of ACM CODASPY 2023.
+2022-10: Invited to serve on the TPC of ACM CODASPY 2023.
 
 
 
@@ -24,7 +26,7 @@ I am an Assistant Professor in the Dept. of Computer Science at San Diego State 
 
 Currently, my research group focuses on understanding and hardening the security of largely deployed Blockchains such as Ethereum and Bitcoin.
 
- **I am always looking for self-motivated students to work on system security. If you are interested, please send me an email with your CV and transcripts!** 
+ **I am always looking for self-motivated students to work on system and network security. If you are interested, please send me an email with your CV and transcripts!** 
 
 
 
