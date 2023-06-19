@@ -1,3 +1,12 @@
+---
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 Research Projects
 ======
 * Fall 2022 - Now: **Cryptocurrency Scam Detection**
