@@ -18,7 +18,7 @@ Conference Papers
    
 1. Yuzhe Tang, **Kai Li**, Yibo Wang, and Jiaqi Chen, Ethical Challenges in Blockchain Network Measurement Research", **EthiCS@NDSS 2023**. <span style="color:blue">[[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ethics2023-235725-paper.pdf)</span>
 
-1. Yibo Wang, **Kai Li**, Yuzhe Tang, “Towards the Comprehensive Understanding of Ethereum Mempool DoS Security”, **ConsensysDay@ACM CCS 2022**.
+1. Yibo Wang, **Kai Li**, Yuzhe Tang, “Towards the Comprehensive Understanding of Ethereum Mempool DoS Security”, **ConsensysDay@ACM CCS 2022**. <span style="color:blue">[[programme]](https://research.protocol.ai/sites/consensusday22/programme/)</span>
       
 1. **Kai Li**, Yibo Wang, Yuzhe Tang. DETER: Denial of Ethereum Txpool sERvices, **ACM CCS 2021**. AR=22%. <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369)</span>, <span style="color:blue">[[medium report (Korean)]](https://medium.com/decipher-media/deter-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%ED%92%80%EC%9D%84-%EB%B9%84%EC%9B%8C%EB%82%B4%EB%8A%94-%EA%B3%B5%EA%B2%A9-4476ad5ae506)</span>. <span style="color:blue"> [[report (Chinese)]](https://paperexplained.cn/articles/article/sdetail/bf772404-411f-4adf-a139-c2e94cd5cd97/)</span>, <span style="color:blue">[[CVE-2022-23327]](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23327)</span>, <span style="color:blue">[[CVE-2022-23328]](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23328) </span>.
 
@@ -41,7 +41,7 @@ Conference Papers
 
 1. Yuzhe Tang, Ju Chen, **Kai Li**. "Log-Structured Authenticated Data Structures for Secure Cloud Storage with Minimal Trust", **SecureComm 2019**, <span style="color:blue">[[pdf]](https://eprint.iacr.org/2016/1063.pdf)</span>
  
-1. Qiwu Zou, Yuzhe Tang, Ju Chen, **Kai Li**, Charles Kamoua, Kevin Kwiat, Laurent Njilla. "ChainFS: Blockchain-Secured Cloud Storage", **IEEE Cloud 2018**, <span style="color:blue"> [[slides]](https://docs.google.com/presentation/d/1uDqvJjPWF6YIo8bb-vfAgCU7SCaoRTLHdrEegTEeyd0/edit#slide=id.g3d35a20df5_0_0)</span>
+1. Qiwu Zou, Yuzhe Tang, Ju Chen, **Kai Li**, Charles Kamoua, Kevin Kwiat, Laurent Njilla. "ChainFS: Blockchain-Secured Cloud Storage", **IEEE Cloud 2018**, <span style="color:blue"> [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8457920)</span>, <span style="color:blue"> [[slides]](https://docs.google.com/presentation/d/1uDqvJjPWF6YIo8bb-vfAgCU7SCaoRTLHdrEegTEeyd0/edit#slide=id.g3d35a20df5_0_0)</span>
 
 <!--
 Workshop Papers
