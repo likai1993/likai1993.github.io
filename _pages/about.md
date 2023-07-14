@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ----
-2023-07: Grateful to receive the "Run A Node" grant from Ethereum Foundation. The funding will support our ongoing research in running a full node in Ethereum networks. 
+2023-07: Grateful to receive the "Run A Node" grant from Ethereum Foundation. The funding will support our ongoing research by running a full node in Ethereum networks. 
 
 2023-06: One proposal submitted to Ethereum Academic Grant is selected for funding. Thanks, Ethereum Foundation! [[Link]](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)
 
