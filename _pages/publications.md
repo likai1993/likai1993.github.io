@@ -33,7 +33,7 @@ Conference Papers
 
 1. **Kai Li**, Qi Zhang, Lei Yu, Min Hong. "DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning", **DBAI @NeurIPS 2021**. <span style="color:blue">[[pdf]](https://openreview.net/pdf?id=RJOWggDLNMv)</span>
 
-1. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Zhehu Yuan, Cheng Xu, Jianliang Xu. "Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication", **ACM/IFIP Middleware 2020**, AR=25.2%. <span style="color:blue">[[pdf]](https://arxiv.org/pdf/1911.04078.pdf)</span> [[code]](https://github.com/syracuse-fullstacksecurity/GRuB)
+1. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Zhehu Yuan, Cheng Xu, Jianliang Xu. "Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication", **ACM/IFIP Middleware 2020**, AR=25.2%. <span style="color:blue">[[pdf]](https://arxiv.org/pdf/1911.04078.pdf)</span>, <span style="color:blue">[[code]](https://github.com/syracuse-fullstacksecurity/GRuB)</span>
 
 1. Yuzhe Tang, **Kai Li**, Yibo Wang, Sencer Burak Somuncuoglu. "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention", **SERIAL 2020**, <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3429884.3430032)</span>
 
