@@ -19,11 +19,11 @@ Lab Members
 </figure>
 -->
 
-<!--<h3>Shixuan Guan</h3>
+<h3>Shixuan Guan</h3>
 <figure class="figure">
-  <img src="../images/shixuan.jpg" alt=""  width="200" height="200">
+  <img src="../images/shixuan.jpg" alt=""  width="100" height="100">
   <figcaption class="figcaption">Shixuan Guan is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security. </figcaption>
-</figure> -->
+</figure>
 
 Shixuan Guan: ![Shixuan Guan](../images/shixuan.jpg){:height="36px" width="36px"}
 
