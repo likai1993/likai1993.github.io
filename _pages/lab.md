@@ -9,12 +9,31 @@ redirect_from:
 
 Lab Members
 ======
-**Shixuan Guan**
-  ![Shixuan Guan](images/shixuan.jpg)
-  * **Bio**: Shixuan is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security. 
+
+<!-- <img style="float: left;" src="../images/shixuan.jpg"  width="200" height="200" title="Shixuan Guan"> -->
+
+<!--
+<figure>
+  <img src="../images/shixuan.jpg" alt="Shixuan Guan" width="200" height="200" />
+  <figcaption>Shixuan is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security.</figcaption>
+</figure>
+-->
+
+<!--| ![sx.jpg](../images/shixuan.jpg) <img width=200/>| 
+|:--:| 
+| **Shixuan Guan** is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security. | -->
+
+<h3>Shixuan Guan</h3>
+<figure class="figure">
+  <img src="../images/shixuan.jpg" alt=""  width="200" height="200">
+  <figcaption class="figcaption">Shixuan Guan is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security. </figcaption>
+</figure>
 
 **Darren Lee**
   * **Bio**: Darren is an undergraduate student in the CS department. His research interests lie in blockchain network DoS security.
 
-**Danyal Zina**
-  * **Bio**: Danyal is an undergraduate student in the CS department. His research interests lie in cryptocurrency scam detection.
+<h3>Danyal Zina</h3>
+<figure class="figure">
+  <img src="../images/danyal.jpg" alt=""  width="200" height="200">
+  <figcaption class="figcaption">Danyal is an undergraduate student in the CS department. His research interests lie in cryptocurrency scam detection. </figcaption>
+</figure>
