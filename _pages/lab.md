@@ -19,18 +19,16 @@ Lab Members
 </figure>
 -->
 
-<!--| ![sx.jpg](../images/shixuan.jpg) <img width=200/>| 
-|:--:| 
-| **Shixuan Guan** is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security. | -->
-
-<h3>Shixuan Guan</h3>
+<!--<h3>Shixuan Guan</h3>
 <figure class="figure">
   <img src="../images/shixuan.jpg" alt=""  width="200" height="200">
   <figcaption class="figcaption">Shixuan Guan is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security. </figcaption>
-</figure>
+</figure> -->
 
-**Darren Lee**
-  * **Bio**: Darren is an undergraduate student in the CS department. His research interests lie in blockchain network DoS security.
+Shixuan Guan: ![Shixuan Guan](../images/shixuan.jpg){:height="36px" width="36px"}
+
+Darren Lee: ![Darren Lee](../images/darren.jpg){:height="36px" width="36px"}
+<!-- Darren is an undergraduate student in the CS department. His research interests lie in blockchain network DoS security. ->
 
 <h3>Danyal Zina</h3>
 <figure class="figure">
