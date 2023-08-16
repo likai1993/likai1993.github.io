@@ -3,8 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
+  - title: "Research Projects"
     url: /research/
+
+  - title: "Lab"
+    url: /lab/
 
   - title: "CV"
     url: /cv/
@@ -14,9 +17,6 @@ main:
 
   #- title: "Teaching"
    # url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
         
   - title: "Blog"
     url: /year-archive/
