@@ -32,6 +32,6 @@ Darren Lee: ![Darren Lee](../images/darren.jpg){:height="36px" width="36px"}
 
 <h3>Danyal Zina</h3>
 <figure class="figure">
-  <img src="../images/danyal.jpg" alt=""  width="100" height="200">
+  <img src="../images/danyal.jpg" alt=""  width="50" height="100">
   <figcaption class="figcaption">Danyal is an undergraduate student in the CS department. His research interests lie in cryptocurrency scam detection. </figcaption>
 </figure>
