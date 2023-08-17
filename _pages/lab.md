@@ -14,6 +14,7 @@ The Distributed System Security Lab (DSSL) at San Diego State University aims to
 
 Current Members
 ======
+<!--
 <table>
   <tr>
     <td> <img src="../images/shixuan.jpg"  alt="1" width = 200px height = 200px ></td>
@@ -26,15 +27,21 @@ Current Members
   <p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
   <p><td align="center"><a href="">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 </table>
+-->
+
+<table class="imgtable">
+<p><td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p><td><img src="../images/darren.jpg" alt="SC" width="180px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/danyal.jpg" alt="SC" width="130px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p></tr><tr></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+</table>
 
 <!--
-<head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<link rel="stylesheet" href="jacob.css" type="text/css" />
-<link rel="stylesheet" href="./css/jemdoc.css" type="text/css" />
-</head>
 <h2>Master Students</h2>
 <p><table class="imgtable"><tbody><tr></p>
 <p><td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
@@ -43,7 +50,6 @@ Current Members
 <p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 <p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 <p></tr></tbody></table></p>
-  
 <h2>Undergraduate Students</h2>
 <p><table class="imgtable"><tbody><tr></p>
 <p><td><img src="../images/darren.jpg" alt="SC" width="180px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
