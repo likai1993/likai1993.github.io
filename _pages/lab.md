@@ -11,15 +11,17 @@ redirect_from:
 
 Lab Members
 ======
-
-<h2>Master Students</h2>
-<p><table class="imgtable"></p>
+<table>
   <tr>
     <td> <img src="../images/shixuan.jpg"  alt="1" width = 200px height = 200px ></td>
     <td><img src="../images/nishee.jpg" alt="2" width = 200px height = 200px></td>
+    <td> <img src="../images/darren.jpg"  alt="1" width = 180px height = 200px ></td>
+    <td><img src="../images/danyal.jpg" alt="2" width = 130px height = 200px></td>
    </tr> 
   <p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
   <p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+  <p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+  <p><td align="center"><a href="">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 </table>
 
 <!--
