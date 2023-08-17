@@ -7,9 +7,18 @@ redirect_from:
   - /resume
 ---
 
+
+
 Lab Members
 ======
 
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="jacob.css" type="text/css" />
+<link rel="stylesheet" href="./css/jemdoc.css" type="text/css" />
+</head>
 <h2>Master Students</h2>
 <p><table class="imgtable"><tbody><tr></p>
 <p><td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
