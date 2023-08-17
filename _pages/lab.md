@@ -14,16 +14,19 @@ The Distributed System Security Lab (DSSL) at San Diego State University aims to
 
 Current Members
 ======
-<table class="imgtable">
-<p><td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td><img src="../images/darren.jpg" alt="SC" width="180px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td><img src="../images/danyal.jpg" alt="SC" width="130px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p></tr><tr></p>
-<p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td align="center"><a href="https://likai1993.github.io/lab/">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<table>
+<tr>
+<td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="../images/darren.jpg" alt="SC" width="180px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="../images/danyal.jpg" alt="SC" width="130px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+  <tr>
+<td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align="center"><a href="https://likai1993.github.io/lab/">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
 </table>
 
 <!--
@@ -61,12 +64,10 @@ Current Members
   <img src="../images/shixuan.jpg" alt="Shixuan"  width="100" height="100">
   <figcaption class="figcaption">Shixuan Guan is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security. </figcaption>
 </figure>
-
 <figure>
   <img src="../images/shixuan.jpg" alt="Shixuan Guan" width="200" height="200" />
   <figcaption>Shixuan is a master's student in the CS department. His research interests include cryptocurrency scam detection and cross-chain security.</figcaption>
 </figure>
-
 <h3>Danyal Zina</h3>
 <figure class="figure">
   <img src="../images/danyal.jpg" alt=""  width="50" height="100">
