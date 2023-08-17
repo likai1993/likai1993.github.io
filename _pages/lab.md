@@ -14,21 +14,6 @@ The Distributed System Security Lab (DSSL) at San Diego State University aims to
 
 Current Members
 ======
-<!--
-<table>
-  <tr>
-    <td> <img src="../images/shixuan.jpg"  alt="1" width = 200px height = 200px ></td>
-    <td><img src="../images/nishee.jpg" alt="2" width = 200px height = 200px></td>
-    <td> <img src="../images/darren.jpg"  alt="1" width = 180px height = 200px ></td>
-    <td><img src="../images/danyal.jpg" alt="2" width = 130px height = 200px></td>
-   </tr> 
-  <p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-  <p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-  <p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-  <p><td align="center"><a href="">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-</table>
--->
-
 <table class="imgtable">
 <p><td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 <p><td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
@@ -63,7 +48,6 @@ Current Members
 <!-- <img style="float: left;" src="../images/shixuan.jpg"  width="200" height="200" title="Shixuan Guan"> -->
 <!--
 **Shixuan Guan**: ![Shixuan Guan](../images/shixuan.jpg){:height="200px" width="200px"}
-
 **Darren Lee**: ![Darren Lee](../images/darren.jpg){:height="200px" width="200px"}
 **Danyal Zina**: ![Danyal Zina](../images/danyal.jpg){:height="100px" width="200px"}
 -->
@@ -88,5 +72,4 @@ Current Members
   <img src="../images/danyal.jpg" alt=""  width="50" height="100">
   <figcaption class="figcaption">Danyal is an undergraduate student in the CS department. His research interests lie in cryptocurrency scam detection. </figcaption>
 </figure>
-
 -->
