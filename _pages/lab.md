@@ -10,18 +10,36 @@ redirect_from:
 Lab Members
 ======
 
-<!-- <img style="float: left;" src="../images/shixuan.jpg"  width="200" height="200" title="Shixuan Guan"> -->
+<h2>Master Students</h2>
+<p><table class="imgtable"><tbody><tr></p>
+<p><td><img src="../images/shixuan.jpg" alt="SC" width="150px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/nishee.jpg" alt="SC" width="100px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p></tr><tr></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p></tr></tbody></table></p>
+  
+<h2>Undergraduate Students</h2>
+<p><table class="imgtable"><tbody><tr></p>
+<p><td><img src="../images/darren.jpg" alt="SC" width="150px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/danyal.jpg" alt="SC" width="100px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p></tr><tr></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p></tr></tbody></table></p>
 
+<!-- <img style="float: left;" src="../images/shixuan.jpg"  width="200" height="200" title="Shixuan Guan"> -->
+<!--
 **Shixuan Guan**: ![Shixuan Guan](../images/shixuan.jpg){:height="200px" width="200px"}
 
 **Darren Lee**: ![Darren Lee](../images/darren.jpg){:height="200px" width="200px"}
+**Danyal Zina**: ![Danyal Zina](../images/danyal.jpg){:height="100px" width="200px"}
+-->
+
 
 <!-- Darren is an undergraduate student in the CS department. His research interests lie in blockchain network DoS security. -->
 
-**Danyal Zina**: ![Danyal Zina](../images/danyal.jpg){:height="100px" width="200px"}
-
 <!--
-
 <h3>Shixuan Guan</h3>
 <figure class="figure">
   <img src="../images/shixuan.jpg" alt="Shixuan"  width="100" height="100">
