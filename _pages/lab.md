@@ -12,8 +12,8 @@ Lab Members
 
 <h2>Master Students</h2>
 <p><table class="imgtable"><tbody><tr></p>
-<p><td><img src="../images/shixuan.jpg" alt="SC" width="150px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td><img src="../images/nishee.jpg" alt="SC" width="100px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p><td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
 <p></tr><tr></p>
 <p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 <p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
@@ -21,8 +21,8 @@ Lab Members
   
 <h2>Undergraduate Students</h2>
 <p><table class="imgtable"><tbody><tr></p>
-<p><td><img src="../images/darren.jpg" alt="SC" width="150px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
-<p><td><img src="../images/danyal.jpg" alt="SC" width="100px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p><td><img src="../images/darren.jpg" alt="SC" width="180px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/danyal.jpg" alt="SC" width="130px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
 <p></tr><tr></p>
 <p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 <p><td align="center"><a href="">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
