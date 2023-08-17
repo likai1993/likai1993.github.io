@@ -13,7 +13,7 @@ Lab Members
 ======
 
 <h2>Master Students</h2>
-<table>
+<p><table class="imgtable"></p>
   <tr>
     <td> <img src="../images/shixuan.jpg"  alt="1" width = 200px height = 200px ></td>
     <td><img src="../images/nishee.jpg" alt="2" width = 200px height = 200px></td>
