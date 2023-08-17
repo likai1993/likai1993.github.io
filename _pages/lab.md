@@ -16,10 +16,10 @@ Current Members
 ======
 <table>
 <tr>
-<td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td><img src="../images/darren.jpg" alt="SC" width="180px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td><img src="../images/danyal.jpg" alt="SC" width="130px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="../images/shixuan.jpg" alt="SC" width="250px" height="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="../images/nishee.jpg" alt="SC" width="250px" height="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="../images/darren.jpg" alt="SC" width="220px" height="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="../images/danyal.jpg" alt="SC" width="160px" height="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 </tr>
   <tr>
 <td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
