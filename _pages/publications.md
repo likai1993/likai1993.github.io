@@ -7,11 +7,6 @@ author_profile: true
 <!--1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. Title to be available, **NDSS 2021**-->
 <!--1. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Yibo Wang, Xianghong Liu. "TopoShot: Uncovering Ethereum's Network Topology Leveraging Replacement Transactions", **IMC 2021**. AR=28%.-->
 
-Journal Papers
-----
-1. Yibo Wang, **Kai Li**, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, and Ting Chen, “Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations,” **IEEE Transactions on Software Engineering, 2023**.
-1. Yuzhe Tang, **Kai Li**, Katchaguy Areekijseree, Shuigeng Zhou, Liting Hu. "Privacy-Preserving Multi-Party Directory Services", EAI Endorsed Transactions on Security and Safety.
-
 Conference Papers
 ----
 1. **Kai Li**, Darren Lee, Shixuan Guan. Understanding the Cryptocurrency Free Giveaway Scam Disseminated on Twitter Lists, **IEEE Blockchain 2023**.
@@ -48,6 +43,12 @@ Conference Papers
 1. Yuzhe Tang, Ju Chen, **Kai Li**. "Log-Structured Authenticated Data Structures for Secure Cloud Storage with Minimal Trust", **SecureComm 2019**, <span style="color:blue">[[pdf]](https://eprint.iacr.org/2016/1063.pdf)</span>
  
 1. Qiwu Zou, Yuzhe Tang, Ju Chen, **Kai Li**, Charles Kamoua, Kevin Kwiat, Laurent Njilla. "ChainFS: Blockchain-Secured Cloud Storage", **IEEE Cloud 2018**, <span style="color:blue"> [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8457920)</span>, <span style="color:blue"> [[slides]](https://docs.google.com/presentation/d/1uDqvJjPWF6YIo8bb-vfAgCU7SCaoRTLHdrEegTEeyd0/edit#slide=id.g3d35a20df5_0_0)</span>
+
+Journal Papers
+----
+1. Yibo Wang, **Kai Li**, Yuzhe Tang, Jiaqi Chen, Qi Zhang, Xiapu Luo, and Ting Chen, “Towards Saving Blockchain Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations,” **IEEE Transactions on Software Engineering, 2023**.
+1. Yuzhe Tang, **Kai Li**, Katchaguy Areekijseree, Shuigeng Zhou, Liting Hu. "Privacy-Preserving Multi-Party Directory Services", EAI Endorsed Transactions on Security and Safety.
+
 
 <!--
 Workshop Papers
