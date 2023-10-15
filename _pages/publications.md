@@ -14,6 +14,8 @@ Journal Papers
 
 Conference Papers
 ----
+1. **Kai Li**, Darren Lee, Shixuan Guan. Understanding the Cryptocurrency Free Giveaway Scam Disseminated on Twitter Lists, **IEEE Blockchain 2023**. AR=31.8%.
+   
 1.  Jiaqi Chen, Yibo Wang, Yuxuan Zhou, Wanning Ding, Yuzhe Tang, XiaoFeng Wang, **Kai Li**. Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild, **Euro S&P 2023**. <span style="color:blue">[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10190515)</span>
    
 1. Yuzhe Tang, **Kai Li**, Yibo Wang, and Jiaqi Chen, Ethical Challenges in Blockchain Network Measurement Research", **EthiCS@NDSS 2023**. <span style="color:blue">[[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ethics2023-235725-paper.pdf)</span>
