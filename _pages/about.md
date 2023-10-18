@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Webpage"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,29 +11,21 @@ redirect_from:
 News
 ----
 2023-10: Our paper on MEV bot has been accepted by ACM SIGMETRICS 2024. Congrats to Shixuan and Darren!
-
 2023-10: Our paper on Cryptocurrency Giveaway Scams has been accepted by IEEE Blockchain 2023. Congrats to Darren and Shixuan!
-
 2023-07: Grateful to receive the "Run A Node" grant from the Ethereum Foundation. The funding will support our ongoing research by running a full node in Ethereum networks. 
-
 2023-06: One proposal submitted to Ethereum Academic Grant is selected for funding. Thanks, Ethereum Foundation! [[Link]](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)
-
-2023-03: One co-authored paper on Decentralized Exchange (DEX) security is accepted to EuroS&P 2023!
-
+2023-03: One co-authored paper on Decentralized Exchange (DEX) security is accepted by EuroS&P 2023!
 2023-01: Invited to serve on the TPC of ICCCN 2023.
-
 2022-10: Invited to serve on the TPC of ACM CODASPY 2023.
-
-
 
 Short Bio
 ----
-I am an Assistant Professor in the Dept. of Computer Science at San Diego State University [[SDSU]](https://cs.sdsu.edu/). My research interests lie in distributed system security and performance optimization, with the current focus on the Blockchain. I received my Ph.D. from Syracuse University [[SU]](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science) in May 2022, where I worked with [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). 
+I am an Assistant Professor in the Dept. of Computer Science at San Diego State University [[SDSU]](https://cs.sdsu.edu/). My research interests lie in distributed system security, network security, and performance optimization, with the current focus on the Blockchain. I received my Ph.D. from Syracuse University [[SU]](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science) in May 2022, advised by [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). 
 
-Currently, my research group focuses on understanding and hardening the security of largely deployed Blockchains such as Ethereum and Bitcoin.
+Currently, my research group focuses on understanding and hardening the security of largely deployed Blockchains such as Ethereum and Bitcoin at different system layers.
 
 Student Opportunities
 ----
- **I am always looking for self-motivated students to work on system and network security. If you are interested, please read our recent papers before sending me an email with your CV and transcripts!** 
+ I am always looking for self-motivated students to work on system and network security. If you are interested, **please read our recent papers** before sending me an email with your CV and transcripts.
 
 
