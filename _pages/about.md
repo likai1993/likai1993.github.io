@@ -32,8 +32,8 @@ I am an Assistant Professor in the Dept. of Computer Science at San Diego State 
 
 Currently, my research group focuses on understanding and hardening the security of largely deployed Blockchains such as Ethereum and Bitcoin.
 
- **I am always looking for self-motivated students to work on system and network security. If you are interested, please send me an email with your CV and transcripts!** 
-
-
+Student Opportunities
+----
+ **I am always looking for self-motivated students to work on system and network security. If you are interested, please read our recent papers before sending me an email with your CV and transcripts!** 
 
 
