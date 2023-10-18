@@ -10,13 +10,13 @@ redirect_from:
 
 News
 ----
-2023-10: Our paper on MEV bot has been accepted by ACM SIGMETRICS 2024. Congrats to Shixuan and Darren!  
-2023-10: Our paper on Cryptocurrency Giveaway Scams has been accepted by IEEE Blockchain 2023. Congrats to Darren and Shixuan!  
-2023-07: Grateful to receive the "Run A Node" grant from the Ethereum Foundation. The funding will support our ongoing research by running a full node in Ethereum networks.  
-2023-06: One proposal submitted to Ethereum Academic Grant is selected for funding. Thanks, Ethereum Foundation! [[Link]](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)  
-2023-03: One co-authored paper on Decentralized Exchange (DEX) security is accepted by EuroS&P 2023!  
-2023-01: Invited to serve on the TPC of ICCCN 2023.  
-2022-10: Invited to serve on the TPC of ACM CODASPY 2023.
+_2023/10_: Our paper on MEV bot has been accepted by ACM SIGMETRICS 2024. Congrats to Shixuan and Darren!  
+_2023/10_: Our paper on Cryptocurrency Giveaway Scams has been accepted by IEEE Blockchain 2023. Congrats to Darren and Shixuan!  
+_2023/07_: Grateful to receive the "Run A Node" grant from the Ethereum Foundation. The funding will support our ongoing research by running a full node in Ethereum networks.  
+_2023/06_: One proposal submitted to Ethereum Academic Grant is selected for funding. Thanks, Ethereum Foundation! [[Link]](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)  
+_2023/03_: One co-authored paper on Decentralized Exchange (DEX) security is accepted by EuroS&P 2023!  
+_2023/01_: Invited to serve on the TPC of ICCCN 2023.  
+_2022/10_: Invited to serve on the TPC of ACM CODASPY 2023.
 
 Short Bio
 ----
