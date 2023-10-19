@@ -18,7 +18,7 @@ News
 - _2023/01_: Invited to serve on the TPC of ICCCN 2023.  
 - _2022/10_: Invited to serve on the TPC of ACM CODASPY 2023.
 
-Short Bio
+About me
 ----
 I am an Assistant Professor in the Dept. of Computer Science at San Diego State University [[SDSU]](https://cs.sdsu.edu/). My research interests lie in distributed system security, network security, and performance optimization, with the current focus on the Blockchain. I received my Ph.D. from Syracuse University [[SU]](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science) in May 2022, advised by [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). 
 
@@ -26,6 +26,6 @@ Currently, my research group focuses on understanding and hardening the security
 
 Student Opportunities
 ----
- I am always looking for self-motivated students to work on system and network security. If you are interested, **please read our recent papers** before sending me an email with your CV and transcripts.
+I am always looking for self-motivated students to work on system and network security. If you are interested, **please read our recent papers** before sending me an email with your CV and transcripts.
 
 
