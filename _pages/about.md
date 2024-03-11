@@ -10,6 +10,7 @@ redirect_from:
 
 News
 ----
+- _2024/02_: Invited to serve on the TPC of ACSAC 2024. 
 - _2023/10_: Our paper on MEV bot has been accepted by ACM SIGMETRICS 2024. Congrats to Shixuan and Darren! 
 - _2023/10_: Our paper on Cryptocurrency Giveaway Scams has been accepted by IEEE Blockchain 2023. Congrats to Darren and Shixuan!  
 - _2023/07_: Grateful to receive the "Run A Node" grant from the Ethereum Foundation. The funding will support our ongoing research by running a full node in Ethereum networks.  
