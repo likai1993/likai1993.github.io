@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Research Projects
+Research
 ======
 * Fall 2022 - Now: **Cryptocurrency Scam Detection**
   * This project aims to detect emerging cryptocurrency scams spread on online social networks and blockchain platforms.
