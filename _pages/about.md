@@ -24,7 +24,7 @@ News
 
 About me
 ----
-I am an Assistant Professor in the Dept. of Computer Science at San Diego State University [[SDSU]](https://cs.sdsu.edu/). My research interests lie in distributed system security, network security, and performance optimization, with the current focus on the Blockchain. I received my Ph.D. from Syracuse University [[SU]](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science) in May 2022, advised by [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). 
+I am an Assistant Professor in the Computer Science department at San Diego State University [[SDSU]](https://cs.sdsu.edu/). My research interests lie in distributed system security, network security, and performance optimization, with the current focus on the Blockchain. I received my Ph.D. from Syracuse University [[SU]](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science) in May 2022, advised by [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). 
 
 Currently, my research group focuses on understanding and hardening the security of largely deployed Blockchains such as Ethereum and Bitcoin at different system layers.
 
