@@ -11,7 +11,7 @@ redirect_from:
 News
 ----
 - _2024/04_: My NSF CRII proposal got funded. Thanks, NSF!
-- _2024/04_: My student Shixuan Guan was awarded the Outstanding Master Student of CS at SDSU, congrats!
+- _2024/04_: My student Shixuan Guan was elected as the Outstanding Computer Science Master Student at SDSU, congrats!
 - _2024/04_: Invited to serve on the TPC of NDSS 2025.
 - _2024/02_: Invited to serve on the TPC of ACSAC 2024. 
 - _2023/10_: Our paper on the MEV bot has been accepted by ACM SIGMETRICS 2024. Congrats to Shixuan and Darren! 
