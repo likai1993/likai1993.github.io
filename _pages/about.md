@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ----
-- _2024/04_: My NSF CRII proposal got funded. Thanks, NSF!
+- _2024/04_: My CRII proposal got funded. Thanks, NSF!
 - _2024/04_: My student Shixuan was awarded the Outstanding Computer Science Master Student at SDSU!
 - _2024/04_: Invited to serve on the TPC of NDSS 2025.
 - _2024/02_: Invited to serve on the TPC of ACSAC 2024. 
