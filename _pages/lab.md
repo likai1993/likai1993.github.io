@@ -17,19 +17,19 @@ Current Members
 
 Ph.D. Students
 ------
-* <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span>
+* <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span> (Fall 2024 - ; Master at SDSU: Fall 2022  - Spring 2024)
 
 
 Master Students
 ------
-* Xiaocan Wang
-* Aron Chen
-* Yahui Jiang
+* Xiaocan Wang (Fall 2024 - )
+* Aron Chen (Fall 2024 - )
+* Yahui Jiang (Fall 2024 - )
 
 Undergraduate Students
 ------
-* Jackson Keus
-* Tong Yang
+* Jackson Keus (Fall 2023 - )
+* Tong Yang (Fall 2024 - )
 
 
 <!--
@@ -69,10 +69,10 @@ Undergraduate Students
 
 Alumni
 ======
-* Darren Lee
-* Danyal Zina
-* Nishee Agrawal
-* Tj Hutchinson 
+* Darren Lee (Fall 2022 - Spring 2024)
+* Danyal Zina (Fall 2023 - Spring 2024)
+* Nishee Agrawal (Summer Intern of 2023)
+* Tj Hutchinson (Fall 2022 - Spring 2023)
 
 
 <!--
