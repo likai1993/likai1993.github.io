@@ -31,6 +31,13 @@ Current Members
 </table>
 -->
 
+Alumni
+======
+
+Student Oppotunities
+======
+We are always looking for talented and self-motivated students to work on applied cybersecurity! If you are interested, please read our recent papers first and then send your CV and transcripts. Please use "Perspective Student - Your name" as the subject in your email.
+
 <!--
 <h2>Master Students</h2>
 <p><table class="imgtable"><tbody><tr></p>
