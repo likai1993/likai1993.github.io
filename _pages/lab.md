@@ -14,6 +14,25 @@ The Distributed System Security Lab (DSSL) at San Diego State University aims to
 
 Current Members
 ======
+
+Ph.D. Students
+------
+* <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span>
+
+
+Master Students
+------
+* Xiaocan Wang
+* Aron Chen
+* Yahui Jiang
+
+Undergraduate Students
+------
+* Jackson Keus
+* Tong Yang
+
+
+<!--
 <h2>Ph.D. Students</h2>
 
 <p><td align="center"><a href="https://www.linkedin.com/in/sxguan"> Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
@@ -28,6 +47,7 @@ Current Members
 <h2>Undergraduate Students</h2>
 <p><td align="center"><a href="https://www.linkedin.com/in/">Jackson Keus</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
 <p><td align="center"><a href="https://www.linkedin.com/in/">Tong Yang</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+-->
 
 
 <!--
@@ -49,6 +69,12 @@ Current Members
 
 Alumni
 ======
+* Darren Lee
+* Danyal Zina
+* Nishee Agrawal
+* Tj Hutchinson 
+
+
 <!--
 <p><table class="imgtable"><tbody><tr></p>
 <p><td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
