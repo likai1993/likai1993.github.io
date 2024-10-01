@@ -8,26 +8,26 @@ redirect_from:
 ---
 
 Overview
-======
+====
 
 The Distributed System Security Lab (DSSL) at San Diego State University aims to secure various largely deployed distributed systems, including public blockchain networks, social networks, cloud storage, and decentralized storage systems.
 
 Current Members
-======
+====
 
 \- Ph.D. Students
-------
+----
 * <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span> (Fall 2024 - ; Master at SDSU: Fall 2022  - Spring 2024)
 
 
 \- Master Students
-------
+----
 * Xiaocan Wang (Fall 2024 - )
 * Aron Chen (Fall 2024 - )
 * Yahui Jiang (Fall 2024 - )
 
 \- Undergraduate Students
-------
+----
 * Jackson Keus (Fall 2023 - )
 * Tong Yang (Fall 2024 - )
 
@@ -68,7 +68,7 @@ Current Members
 -->
 
 Alumni
-======
+====
 * Darren Lee (Fall 2022 - Spring 2024)
 * Danyal Zina (Fall 2023 - Spring 2024)
 * Nishee Agrawal (Summer Intern of 2023)
@@ -89,7 +89,7 @@ Alumni
 
 
 Student Opportunities
-======
+====
 We are always looking for talented and self-motivated students to work on applied cybersecurity! If you are interested, please read our recent papers first and then send your CV and transcripts. Please use **"Perspective Student - Your Name"** as the subject in your email.
 
 <!--
