@@ -14,6 +14,31 @@ The Distributed System Security Lab (DSSL) at San Diego State University aims to
 
 Current Members
 ======
+<h2>Ph.D. Students</h2>
+<p><table class="imgtable"><tbody><tr></p>
+<p><td><img src="../images/shixuan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p></tr><tr></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p></tr></tbody></table></p>
+
+<h2>Master Students</h2>
+<p><table class="imgtable"><tbody><tr></p>
+<p><td><img src="../images/xiaocan.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/yahui.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p></tr><tr></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/">Xiaocan Wang</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/">Yahui Jiang</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p></tr></tbody></table></p>
+
+<h2>Undergraduate Students</h2>
+<p><table class="imgtable"><tbody><tr></p>
+<p><td><img src="../images/jackson.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/tong.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p></tr><tr></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/">Jackson Keus</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/">Tong Yang</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p></tr></tbody></table></p>
+
 <!--
 <table>
 <tr>
@@ -33,8 +58,19 @@ Current Members
 
 Alumni
 ======
+<p><table class="imgtable"><tbody><tr></p>
+<p><td><img src="../images/nishee.jpg" alt="SC" width="200px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p><td><img src="../images/darren.jpg" alt="SC" width="180px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td><img src="../images/danyal.jpg" alt="SC" width="130px" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></p>
+<p></tr><tr></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/nisheeagrawal">Nishee Agrawal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/darren-the-lee">Darren Lee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="">Danyal Zina</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p></tr></tbody></table></p>
 
-Student Oppotunities
+
+
+Student Opportunities
 ======
 We are always looking for talented and self-motivated students to work on applied cybersecurity! If you are interested, please read our recent papers first and then send your CV and transcripts. Please use **"Perspective Student - Your Name"** as the subject in your email.
 
