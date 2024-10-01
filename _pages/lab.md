@@ -15,8 +15,10 @@ The Distributed System Security Lab (DSSL) at San Diego State University aims to
 Current Members
 ======
 <h2>Ph.D. Students</h2>
-<span style="text-decoration:underline">this</span>
-<p><td align="center"><a href="https://www.linkedin.com/in/sxguan">Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+
+<p><td align="center"><a href="https://www.linkedin.com/in/sxguan"> Shixuan Guan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+<p><td align="center"><a href="https://www.linkedin.com/in/sxguan"> <span style="text-decoration:underline">this</span> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
+
 
 <h2>Master Students</h2>
 <p><td align="center"><a href="https://www.linkedin.com/in/">Xiaocan Wang</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></p>
