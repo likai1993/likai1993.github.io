@@ -15,7 +15,10 @@ Education
 
 Teaching Experience
 =====
-* Spring 2023, CS530 Systems programming
+* Fall 2024, CS530 System Programming, CS574 Computer Security
+* Spring 2024, CS596 Fundamentals of Cryptography with Applications to Blockchain
+* Fall 2023, CS530 System Programming
+* Spring 2023, CS530 Systems Programming
 * Fall 2022, CS530 Systems Programming
 * Spring 2022, CSE384 Systems and Network Programming
 * Fall 2021, CIS629  Blockchain: Foundation and Applications
@@ -35,6 +38,7 @@ Professional Services
 
 Awards
 ===
+* 2023 Ethereum Academic Grant Awardee
 * 2022 Norton Labs Fellowship Finalist
 * ACM CCS 2021 Student Grant
 * IEEE S&P 2021 Student Grant
