@@ -17,12 +17,16 @@ Current Members
 
 \- Ph.D. Students
 ----
-* <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span> (Fall 2024 - ; Master at SDSU: Fall 2022  - Spring 2024)
+* <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span> (Fall 2024 - Present; Master at SDSU: Fall 2022  - Spring 2024)
+  - Publications: ACM CCS 2024, ACM SIGMETRICS 2024, IEEE Blockchain 2023
+  - Awards: Most Outstanding CS Master Student at SDSU, ACM CCS 2024 Student Grant
 
 
 \- Master Students
 ----
 * Xiaocan Wang (Fall 2024 - )
+  - Awards: ACM CCS 2024 DEI Student Grant
+
 * Aron Chen (Fall 2024 - )
 * Yahui Jiang (Fall 2024 - )
 
