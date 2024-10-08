@@ -9,7 +9,7 @@ redirect_from:
 
 Research
 ======
-* Fall 2022 - Now: **Cryptocurrency Scam Detection**
+* Fall 2022 - Now: **Blockchain-based Cybercrime Detection and Analysis**
   * This project aims to detect emerging cryptocurrency scams spread on online social networks and blockchain platforms.
   * Publications: <span style="color:blue">[IEEE Blockchain 2023](https://arxiv.org/abs/2306.10634), [ACM SIGMETRICS 2024](https://arxiv.org/abs/2310.12306), [ACM CCS 2024]()</span>
 
