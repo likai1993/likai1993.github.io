@@ -33,7 +33,7 @@ Professional Services
 ======
 * Associate Editor: IEEE Transactions on Learning Technology
 * Editorial Board: Internet of Things and Cloud Computing
-* Technical Program Committee: ACM CODASPY 2023/2024, ICCCN 2023/2024, B2C 2022, BlockDM 2021
+* Technical Program Committee: NDSS 2025, ACSAC 2024, ACM CODASPY 2023/2024, ICCCN 2023/2024, B2C 2022, BlockDM 2021
 * Reviewer: IEEE TPDS, IEEE TDSC, WWW 2020, IEEE BigData 2019/2020, ACM CODASPY 2019, IEEE Cloud 2018, IEEE Internet of Things, IEEE Transactions on Cloud Computing, IEEE Intelligent Transportation Systems Magazine, Data Science and Engineering.
 
 Awards
