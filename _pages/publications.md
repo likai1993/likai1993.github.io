@@ -9,7 +9,7 @@ author_profile: true
 
 Conference Papers
 ----
-1. Shixuan Guan, **Kai Li**. Characterizing Ethereum Address Poisoning Attack, **ACM CCS 2024**. AR=?%.
+1. Shixuan Guan, **Kai Li**. Characterizing Ethereum Address Poisoning Attack, **ACM CCS 2024**. AR=16.9%, <span style="color:blue">[[pdf]]( https://www.sigsac.org/ccs/CCS2024/assets/pfaubmkaccs2024submissions/new/p986-guan.pdf)</span>
 1. Yibo Wang, Yuzhe Tang, **Kai Li**, Wanning Ding, Zhihua Yang. Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing, **USENIX Security 2024**. AR=18.32%. <span style="color:blue">[[pdf]](https://www.usenix.org/system/files/usenixsecurity24-wang-yibo.pdf)</span>
 1. **Kai Li**, Shixuan Guan, Darren Lee. Towards Understanding and Characterizing the Arbitrage Bot Scam In the Wild, **ACM SIGMETRICS 2024**. Summer Cycle AR=12.5%. <span style="color:blue">[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3626783)</span>
 1. **Kai Li**, Darren Lee, Shixuan Guan. Understanding the Cryptocurrency Free Giveaway Scam Disseminated on Twitter Lists, **IEEE Blockchain 2023**. AR=31.8%. <span style="color:blue">[[pdf]](https://www.researchgate.net/publication/375451067_Understanding_the_Cryptocurrency_Free_Giveaway_Scam_Disseminated_on_Twitter_Lists)</span>
