@@ -10,6 +10,7 @@ redirect_from:
 
 News
 ----
+- _2024/10_: Invited to serve on the TPC of ACM CCS 2025.
 - _2024/07_: Our paper is accepted to ACM CCS 2024. Congrats to Shixuan! 
 - _2024/04_: My CRII proposal got funded. Thanks, NSF!
 - _2024/04_: One co-authored paper is accepted to USENIX Security 2024!  
