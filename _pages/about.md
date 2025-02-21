@@ -10,6 +10,7 @@ redirect_from:
 
 News
 ----
+- _2025/02_: Grateful to receive the "ETH Rangers" grant from Ethereum Foundation. 
 - _2024/10_: Invited to serve on the TPC of ACM CCS 2025.
 - _2024/07_: Our paper is accepted to ACM CCS 2024. Congrats to Shixuan! 
 - _2024/04_: My CRII proposal got funded. Thanks, NSF!
@@ -19,7 +20,7 @@ News
 - _2024/02_: Invited to serve on the TPC of ACSAC 2024. 
 - _2023/10_: Our paper is accepted to ACM SIGMETRICS 2024. Congrats to Shixuan and Darren! 
 - _2023/10_: Our paper is accepted to IEEE Blockchain 2023. Congrats to Darren and Shixuan!  
-- _2023/07_: Grateful to receive the "Run A Node" grant from the Ethereum Foundation. 
+- _2023/07_: Grateful to receive the "Run A Node" grant from Ethereum Foundation. 
 - _2023/06_: Grateful to receive the Ethereum Academic Grant. Thanks, Ethereum Foundation! [[Link]](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)  
 - _2023/03_: One co-authored paper is accepted to EuroS&P 2023!  
 - _2023/01_: Invited to serve on the TPC of ICCCN 2023.  
