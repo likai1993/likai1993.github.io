@@ -10,7 +10,7 @@ locale                   : "en-US.UTF-8"
 title                    : "Kai Li（李凯）"
 title_separator          : "-"
 name                     : &name "Kai Li(李凯)"
-description              : &description "Incoming Assistant Professor at San Diego State University."
+description              : &description "Assistant Professor at Stevens Institute of Technology"
 url                      : https://likai1993.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "likai1993.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kai Li"
   avatar           : "IMG_2645.jpg"
-  bio              : " Assistant Professor at San Diego State University."
+  bio              : "Assistant Professor at Stevens Institute of Technology"
   location         : "San Diego"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dtQ6JD0AAAAJ&hl=en"
-  email            : "kli5@sdsu.edu"
+  email            : "kli50@stevens.edu"
   uri              :
   bitbucket        :
   codepen          :
