@@ -10,7 +10,7 @@ redirect_from:
 Overview
 ====
 
-The Distributed System Security Lab (DSSL) at San Diego State University aims to secure various largely deployed distributed systems, including public blockchain networks, social networks, cloud storage, and decentralized storage systems.
+The Distributed System Security Lab (DSSL) aims to secure various largely deployed distributed systems, including public blockchain networks, social networks, cloud storage, and decentralized storage systems.
 
 Current Members
 ====
@@ -32,8 +32,8 @@ Current Members
 
 \- Undergraduate Students
 ----
-* Jackson Keus (Fall 2023 - )
-* Tong Yang (Fall 2024 - )
+* Jackson Keus (Fall 2023 - Spring 2025)
+* Tong Yang (Fall 2024 - Spring 2025)
 
 
 <!--
