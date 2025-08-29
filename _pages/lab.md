@@ -32,8 +32,7 @@ Current Members
 
 \- Undergraduate Students
 ----
-* Jackson Keus (Fall 2023 - Spring 2025)
-* Tong Yang (Fall 2024 - Spring 2025)
+* Tong Yang (Fall 2024 - )
 
 
 <!--
@@ -73,11 +72,11 @@ Current Members
 
 Alumni
 ====
+* Jackson Keus (Fall 2023 - Spring 2025)
 * Darren Lee (Fall 2022 - Spring 2024)
 * Danyal Zina (Fall 2023 - Spring 2024)
 * Nishee Agrawal (Summer Intern of 2023)
 * Tj Hutchinson (Fall 2022 - Spring 2023)
-
 
 <!--
 <p><table class="imgtable"><tbody><tr></p>
