@@ -11,7 +11,7 @@ redirect_from:
 News
 ----
 - _2025/08_: My research lab has moved to Stevens Institute of Technology.
-- _2025/07_: Invited to serve on the TPC of NDSS 2026 and USENIX Security 2026.
+- _2025/07_: Invited to serve on the TPC of NDSS 2026, USENIX Security 2026, and CCS 2026.
 - _2025/02_: Grateful to receive the "ETH Rangers" grant from the Ethereum Foundation! 
 - _2024/10_: Invited to serve on the TPC of ACM CCS 2025 and ACSAC 2025.
 - _2024/07_: Our paper is accepted to ACM CCS 2024. Congrats to Shixuan! 
@@ -25,8 +25,8 @@ News
 - _2023/07_: Grateful to receive the "Run A Node" grant from the Ethereum Foundation. 
 - _2023/06_: Grateful to receive the Ethereum Academic Grant. Thanks, Ethereum Foundation! [[Link]](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)  
 - _2023/03_: One co-authored paper is accepted to EuroS&P 2023!  
-- _2023/01_: Invited to serve on the TPC of ICCCN 2023.  
-- _2022/10_: Invited to serve on the TPC of ACM CODASPY 2023.
+<!-- - _2023/01_: Invited to serve on the TPC of ICCCN 2023.  
+-- - _2022/10_: Invited to serve on the TPC of ACM CODASPY 2023. -->
 
 About me
 ----
