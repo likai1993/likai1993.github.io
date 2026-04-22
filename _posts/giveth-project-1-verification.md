@@ -8,12 +8,12 @@ tags:
 ---
 
 
-This post verifies that the fundraising campaign listed below is officially created and maintained by our research project.
+This post verifies that the fundraising campaign listed below is officially created and maintained by our research project:
 
-We have launched a public fundraising campaign on Giveth to support our next open-source security project: **Protecting Ethereum From DoS Attacks**
+1. We have launched a public fundraising campaign on Giveth to support our next open-source security project: **Protecting Ethereum From DoS Attacks**
 
-The campaign will fund research and development of defensive tools to protect Ethereum execution clients from message-flooding attacks and improve the resilience of the Ethereum peer-to-peer network.
+2. The campaign will fund research and development of defensive tools to protect Ethereum execution clients from message-flooding attacks and improve the resilience of the Ethereum peer-to-peer network.
 
-Official fundraiser link: https://giveth.io/project/protecting-ethereum-from-dos-attacks
+3. Official fundraiser link: https://giveth.io/project/protecting-ethereum-from-dos-attacks
 
-All funds will be used for open research, tooling, and public releases that benefit the Ethereum ecosystem.
+4. All funds will be used for open research, tooling, and public releases that benefit the Ethereum ecosystem.
