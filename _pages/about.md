@@ -16,6 +16,7 @@ My research lies at the intersection of **systems security, distributed systems,
 
 News
 ----
+<div class="news-list" markdown="1">
 - _2026/07_: Received a $22,000 bug bounty for reporting multiple DoS vulnerabilities in Ethereum clients. Thanks, Ethereum Foundation!
 - _2026/06_: Invited to serve on the TPC of USENIX Security 2027.
 - _2026/05_: Our extended work on "MPFUZZ" was accepted to TSE. Congrats to Yibo!
@@ -32,8 +33,7 @@ News
 - _2023/10_: Our paper was accepted to IEEE Blockchain 2023. Congrats to Darren and Shixuan!
 - _2023/07_: Grateful to receive the "Run A Node" grant from the Ethereum Foundation.
 - _2023/06_: Grateful to receive the Ethereum Academic Grant. Thanks, Ethereum Foundation!
-
-{: .news-list}
+</div>
 
 Student Opportunities
 ----
