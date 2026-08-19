@@ -17,7 +17,7 @@ My research lies at the intersection of **systems security, distributed systems,
 News
 ----
 <div class="news-list" markdown="1">
-- _2026/07_: Received a $22,000 bug bounty for reporting multiple DoS vulnerabilities in Ethereum clients. Thanks, Ethereum Foundation!
+- _2026/07_: Our group received a $22,000 bug bounty for reporting multiple DoS vulnerabilities in Ethereum clients. Thanks, Ethereum Foundation!
 - _2026/06_: Invited to serve on the TPC of USENIX Security 2027.
 - _2026/05_: Our extended work on "MPFUZZ" was accepted to TSE. Congrats to Yibo!
 - _2025/11_: Invited to serve on the TPC of CCS 2026.
