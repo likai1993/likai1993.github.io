@@ -38,8 +38,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Custom styling for News list */
-.news-list {
-  margin-left: -1.6em;
-  padding-left: 1.6em;
+/* News list: remove default indentation */
+.news-list ul {
+  list-style: none;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.news-list li {
+  position: relative;
+  padding-left: 1em;
+}
+
+.news-list li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
 }
