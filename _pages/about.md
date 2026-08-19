@@ -10,31 +10,35 @@ redirect_from:
 
 News
 ----
-- _2025/08_: My research lab has moved to Stevens Institute of Technology.
-- _2025/07_: Invited to serve on the TPC of NDSS 2026, USENIX Security 2026, and CCS 2026.
+- _2026/07_: Received a $22,000 bug bounty for reporting multiple DoS vulnerabilities in Ethereum clients. Thanks, Ethereum Foundation!
+- _2025/06_: Invited to serve on the TPC of USENIX Security 2027.
+- _2026/05_: Our extended work on "MPFUZZ" was accepted to TSE. Congrats to Yibo!
+- _2025/11_: Invited to serve on the TPC of CCS 2026
+- _2025/07_: Invited to serve on the TPC of NDSS 2026 and USENIX Security 2026.
 - _2025/02_: Grateful to receive the "ETH Rangers" grant from the Ethereum Foundation! 
 - _2024/10_: Invited to serve on the TPC of ACM CCS 2025 and ACSAC 2025.
-- _2024/07_: Our paper is accepted to ACM CCS 2024. Congrats to Shixuan! 
-- _2024/04_: My CRII proposal got funded. Thanks, NSF!
-- _2024/04_: One co-authored paper is accepted to USENIX Security 2024!  
-- _2024/04_: My student Shixuan was awarded the Outstanding Computer Science Master Student at SDSU!
-- _2024/04_: Invited to serve on the TPC of NDSS 2025.
-- _2024/02_: Invited to serve on the TPC of ACSAC 2024. 
-- _2023/10_: Our paper is accepted to ACM SIGMETRICS 2024. Congrats to Shixuan and Darren! 
-- _2023/10_: Our paper is accepted to IEEE Blockchain 2023. Congrats to Darren and Shixuan!  
+- _2024/07_: Our paper was accepted to ACM CCS 2024. Congrats to Shixuan! 
+- _2024/04_: Grateful to receive the CRII award. Thanks, NSF!
+- _2024/04_: One co-authored paper was accepted to USENIX Security 2024!  
+- _2024/04_: Congrats, Shixuan, on receiving the Outstanding Master Student at SDSU!
+- _2024/04_: Invited to serve on the TPC of ACSAC 2024 and NDSS 2025.
+- _2023/10_: Our paper was accepted to ACM SIGMETRICS 2024. Congrats to Shixuan and Darren! 
+- _2023/10_: Our paper was accepted to IEEE Blockchain 2023. Congrats to Darren and Shixuan!  
 - _2023/07_: Grateful to receive the "Run A Node" grant from the Ethereum Foundation. 
-- _2023/06_: Grateful to receive the Ethereum Academic Grant. Thanks, Ethereum Foundation! [[Link]](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)  
-- _2023/03_: One co-authored paper is accepted to EuroS&P 2023!  
-<!-- - _2023/01_: Invited to serve on the TPC of ICCCN 2023.  
+- _2023/06_: Grateful to receive the Ethereum Academic Grant. Thanks, Ethereum Foundation! 
+
+<!-- - _2023/03_: One co-authored paper is accepted to EuroS&P 2023!  
+- _2023/01_: Invited to serve on the TPC of ICCCN 2023.  
 -- - _2022/10_: Invited to serve on the TPC of ACM CODASPY 2023. -->
 
 About me
 ----
-I am an Assistant Professor in the Department of Computer Science at [Stevens Institute of Technology](https://www.stevens.edu/school-engineering-science/departments/computer-science). Previously, I was an Assistant Professor in the Computer Science Department at [San Diego State University](https://cs.sdsu.edu/). My research interests lie in distributed system security, cybercrime detection and prevention, performance analysis and optimization. I received my Ph.D. from [Syracuse University](http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science) in 2022, under the guidance of [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). 
+I am an Assistant Professor in the Department of Computer Science at Stevens Institute of Technology. Previously, I was an Assistant Professor at San Diego State University. I received my Ph.D. in Computer Science from Syracuse University, where I was advised by Dr. Yuzhe (Richard) Tang.
 
-Currently, my research group focuses on understanding and hardening the security of largely deployed blockchains such as Ethereum and Bitcoin at different system layers, detecting and flagging emerging cryptocurrency scams and phishing attacks, and optimizing the performance of blockchain's P2P network.
+My research lies at the intersection of **systems security, distributed systems, applied cryptography, and agentic AI**, with the goal of building **secure, trustworthy, and efficient computing systems**. My research group studies security and performance challenges in widely deployed blockchain systems such as Ethereum and Bitcoin, spanning their networking, protocol, client, and application layers. Our current work focuses on automated vulnerability discovery, analysis, and repair in blockchain clients, detection and prevention of cryptocurrency scams and phishing attacks, and security and performance optimization of blockchain peer-to-peer networks. We are particularly interested in developing AI- and agent-based techniques for automating security analysis, vulnerability discovery, diagnosis, and remediation. More broadly, we also explore cryptographic, systems, and AI techniques for trustworthy distributed computing, including privacy-preserving and verifiable collaborative learning.
 
 Student Opportunities
 ----
-I am always looking for self-motivated students to work on system and network security. If you are interested, **please read our recent papers** before sending me an email with your CV and transcripts.
+I am always looking for motivated Ph.D., master's, and undergraduate students who are interested in our research. Current research opportunities include systems and network security, blockchain security, distributed systems, applied cryptography, automated vulnerability discovery and repair, and trustworthy distributed computing and Agentic AI.
 
+If you are interested in joining our group, please email me your CV, transcripts, and a brief description of your research interests. To help me understand your research fit, please also read some of our recent papers and mention one or two projects or papers that particularly interest you and why.
