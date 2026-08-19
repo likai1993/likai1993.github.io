@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ----
-I am an Assistant Professor in the Department of Computer Science at Stevens Institute of Technology. Previously, I was an Assistant Professor at San Diego State University. I received my Ph.D. in Computer Science from Syracuse University, where I was advised by Dr. Yuzhe (Richard) Tang.
+I am an Assistant Professor in the Department of Computer Science at Stevens Institute of Technology. Previously, I was an Assistant Professor at San Diego State University. I received my Ph.D. in Electrical and Computer Engineering from Syracuse University, where I was advised by Dr. Yuzhe (Richard) Tang.
 
 My research lies at the intersection of **systems security, distributed systems, applied cryptography, and agentic AI**, with the goal of building **secure, trustworthy, and efficient computing systems**. My research group studies security and performance challenges in widely deployed blockchain systems such as Ethereum and Bitcoin, spanning their networking, protocol, client, and application layers. Our current work focuses on automated vulnerability discovery, analysis, and repair in blockchain clients, detection and prevention of cryptocurrency scams and phishing attacks, and security and performance optimization of blockchain peer-to-peer networks. We are particularly interested in developing AI- and agent-based techniques for automating security analysis, vulnerability discovery, diagnosis, and remediation. More broadly, we also explore cryptographic, systems, and AI techniques for trustworthy distributed computing, including privacy-preserving and verifiable collaborative learning.
 
