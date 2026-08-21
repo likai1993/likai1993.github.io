@@ -17,22 +17,18 @@ Current Members
 
 \- Ph.D. Students
 ----
-* <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span> (Fall 2024 - Present; Master at SDSU: Fall 2022  - Spring 2024)
+* <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span> (Fall 2024 - Present)
   - Publications: ACM CCS 2024, ACM SIGMETRICS 2024, IEEE Blockchain 2023
   - Awards: Most Outstanding CS Master Student at SDSU, ACM CCS 2024 Student Grant
 
+* <span style="color:blue">[Xiaocan Wang](https://www.linkedin.com/in/xiaocan-wang-137b4b332)</span> (Fall 2025 - Present)
+  - Awards: ACM CCS DEI Student Grant
 
-\- Master Students
+
+\- Master and Undergraduate Students
 ----
-* Xiaocan Wang (Fall 2024 - )
-  - Awards: ACM CCS 2024 DEI Student Grant
-
-* Aron Chen (Fall 2024 - )
-* Yahui Jiang (Fall 2024 - )
-
-\- Undergraduate Students
-----
-* Tong Yang (Fall 2024 - )
+* Zhen Yang (Spring 2026 - Present)
+* Tong Yang (Fall 2024 - Present)
 
 
 <!--
@@ -72,11 +68,13 @@ Current Members
 
 Alumni
 ====
-* Jackson Keus (Fall 2023 - Spring 2025)
-* Darren Lee (Fall 2022 - Spring 2024)
-* Danyal Zina (Fall 2023 - Spring 2024)
-* Nishee Agrawal (Summer Intern of 2023)
-* Tj Hutchinson (Fall 2022 - Spring 2023)
+* Aron Chen (Fall 2024 - Spring 2026), Master of Computer Science at SDSU
+* Yahui Jiang (Fall 2024 - Spring 2026), Master of Computer Science at SDSU
+* Jackson Keus (Fall 2023 - Spring 2025), Bachelor of Computer Science at SDSU
+* Darren Lee (Fall 2022 - Spring 2024), Bachelor of Computer Science at SDSU
+* Danyal Zina (Fall 2023 - Spring 2024), Bachelor of Computer Science at SDSU
+* Nishee Agrawal (Summer Intern of 2023), Master of Computer Science at SDSU
+* TJ Hutchinson (Fall 2022 - Spring 2023), Bachelor of Computer Science at SDSU
 
 <!--
 <p><table class="imgtable"><tbody><tr></p>
