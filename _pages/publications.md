@@ -7,8 +7,8 @@ author_profile: true
 <!--1. **Kai Li**, Jiaqi Chen, Xianghong Liu, Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. Title to be available, **NDSS 2021**-->
 <!--1. **Kai Li**, Yuzhe Tang, Jiaqi Chen, Yibo Wang, Xianghong Liu. "TopoShot: Uncovering Ethereum's Network Topology Leveraging Replacement Transactions", **IMC 2021**. AR=28%.-->
 
-Conference Papers
-----
+<!--Conference Papers -->
+<!-- ---- -->
 1. Yibo Wang, Yuzhe Tang, Kai Li, Wanning Ding, Towards Automated Discovery of Asymmetric Mempool DoS in Blockchains, **IEEE Transactions on Software Engineering 2026**, <span style="color:blue">[[link]](https://ieeexplore.ieee.org/document/11543216)</span> 
 
 1. Shixuan Guan, Kai Li. Characterizing Ethereum Address Poisoning Attack, **ACM CCS 2024**. AR=16.9%, <span style="color:blue">[[pdf]]( https://www.sigsac.org/ccs/CCS2024/assets/pfaubmkaccs2024submissions/new/p986-guan.pdf)</span>
