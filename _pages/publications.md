@@ -9,7 +9,10 @@ author_profile: true
 
 <!--Conference Papers -->
 <!-- ---- -->
-1. Yibo Wang, Yuzhe Tang, Kai Li, Wanning Ding, Towards Automated Discovery of Asymmetric Mempool DoS in Blockchains, **IEEE Transactions on Software Engineering 2026**, <span style="color:blue">[[link]](https://ieeexplore.ieee.org/document/11543216)</span> 
+1. Xiaocan Wang, Shixuan Guan, Tong Yang, Xiapu Luo, Yue Duan, Kai Li. Blockchain Transaction Simulation Phishing, 2026. <span style="color:blue">[[preprint]](https://arxiv.org/abs/2607.28747)</span>
+     - **Media coverage:** <span style="color:blue">[[CryptoRank]](https://cryptorank.io/news/feed/c3ebe-researchers-just-uncovered-4200-malicious-smart-contracts-that-successfully-tricked-5700-victims-into-signing-away-their-crypto), <span style="color:blue">[[CryptoSlate]](https://cryptoslate.com/researchers-just-uncovered-4200-malicious-smart-contracts-that-successfully-tricked-5700-victims-into-signing-away-their-crypto), <span style="color:blue">[[Cryptonews.net]](https://cryptonews.net/news/security/33242211), <span style="color:blue">[[kljompus.com]](https://kljompus.com/en/transaction-simulation-phishing), <span style="color:blue">[[BYDFi]](https://www.bydfi.com/en/crypto-news/eth/malicious-smart-contracts-4-224-detected-3-48m-stolen-59678), <span style="color:blue">[[DropsTab]](https://news.dropstab.com/aggregator/jb9ehnr1-researchers-just-uncovered-4-200-malicious-smart-contracts-that-successfully-tricked-5-700-victims)
+
+1. Yibo Wang, Yuzhe Tang, Kai Li, Wanning Ding. Towards Automated Discovery of Asymmetric Mempool DoS in Blockchains, **IEEE Transactions on Software Engineering 2026**, <span style="color:blue">[[link]](https://ieeexplore.ieee.org/document/11543216)</span>
 
 1. Shixuan Guan, Kai Li. Characterizing Ethereum Address Poisoning Attack, **ACM CCS 2024**. AR=16.9%, <span style="color:blue">[[pdf]]( https://www.sigsac.org/ccs/CCS2024/assets/pfaubmkaccs2024submissions/new/p986-guan.pdf)</span>
 
