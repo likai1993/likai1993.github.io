@@ -9,6 +9,8 @@ author_profile: true
 
 <!--Conference Papers -->
 <!-- ---- -->
+1. Shixuan Guan, Xiaocan Wang, Kai Li. Copy-Paste Danger: Evaluating Cryptocurrency Wallets’ Security Under Address Poisoning, to appear in **Financial Cryptography and Data Security (FC) 2027**.
+
 1. Xiaocan Wang, Shixuan Guan, Tong Yang, Xiapu Luo, Yue Duan, Kai Li. Blockchain Transaction Simulation Phishing, 2026. <span style="color:blue">[[preprint]](https://arxiv.org/abs/2607.28747)</span>
      - **Media coverage:** <span style="color:blue">[[CryptoRank]](https://cryptorank.io/news/feed/c3ebe-researchers-just-uncovered-4200-malicious-smart-contracts-that-successfully-tricked-5700-victims-into-signing-away-their-crypto), <span style="color:blue">[[CryptoSlate]](https://cryptoslate.com/researchers-just-uncovered-4200-malicious-smart-contracts-that-successfully-tricked-5700-victims-into-signing-away-their-crypto), <span style="color:blue">[[Cryptonews.net]](https://cryptonews.net/news/security/33242211), <span style="color:blue">[[kljompus.com]](https://kljompus.com/en/transaction-simulation-phishing), <span style="color:blue">[[BYDFi]](https://www.bydfi.com/en/crypto-news/eth/malicious-smart-contracts-4-224-detected-3-48m-stolen-59678), <span style="color:blue">[[DropsTab]](https://news.dropstab.com/aggregator/jb9ehnr1-researchers-just-uncovered-4-200-malicious-smart-contracts-that-successfully-tricked-5-700-victims)
 
