@@ -19,7 +19,7 @@ News
 ----
 <div class="news-list" markdown="1">
 - _2026/11_: Our paper was accepted to FC 2027. Congrats to Shixuan and Xiaocan!
-- _2026/07_: Our group received more than $20,000 in bug bounties for reporting multiple vulnerabilities in Ethereum clients. Thanks, Ethereum Foundation!
+- _2026/07_: We received more than $20,000 in bug bounties for reporting multiple vulnerabilities in Ethereum clients. Thanks, Ethereum Foundation!
 - _2026/06_: Invited to serve on the TPC of USENIX Security 2027.
 - _2026/05_: Our extended work on "MPFUZZ" was accepted to TSE. Congrats to Yibo!
 - _2025/11_: Invited to serve on the TPC of CCS 2026.
