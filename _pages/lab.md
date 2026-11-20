@@ -99,7 +99,14 @@ Lab Life
 
 Beyond research, we enjoy sharing meals, celebrating milestones, and spending time together. Here are a few moments from life in DSSL.
 
-
+<figure>
+  <img
+    src="{{ '/images/lab/group-dinner.jpg' | relative_url }}"
+    alt="DSSL students enjoying a group dinner"
+    style="width: 100%; max-width: 800px; height: auto;"
+    loading="lazy">
+  <figcaption>Group dinner in Hoboken · November 2026</figcaption>
+</figure>
 
 
 Student Opportunities
