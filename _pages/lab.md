@@ -94,9 +94,17 @@ Alumni
 -->
 
 
+Lab Life
+====
+
+Beyond research, we enjoy sharing meals, celebrating milestones, and spending time together. Here are a few moments from life in DSSL.
+
+
+
+
 Student Opportunities
 ====
-We are always looking for talented and self-motivated students to work on applied cybersecurity! If you are interested, please read our recent papers first and then send your CV and transcripts. Please use **"Perspective Student - Your Name"** as the subject in your email.
+We are always looking for talented and self-motivated students to work on applied cybersecurity! If you are interested, please read our recent papers first and then send your CV and transcripts. Please use **"Prospective Student - Your Name"** as the subject in your email.
 
 <!--
 <h2>Master Students</h2>
