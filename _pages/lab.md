@@ -10,7 +10,9 @@ redirect_from:
 Overview
 ====
 
-The Distributed System Security Lab (DSSL) aims to secure various largely deployed distributed systems, including public blockchain networks, social networks, cloud storage, and decentralized storage systems.
+We are a group of researchers aiming to improve the security, resilience, and performance of widely deployed distributed systems, including public blockchain networks, social platforms, and cloud and decentralized storage systems. We investigate how adversaries exploit weaknesses across protocols, networks, software implementations, and user interactions, and develop practical methods to identify vulnerabilities, understand emerging threats, and strengthen system defenses.
+
+Our research combines empirical measurement, protocol and implementation analysis, feedback-guided fuzzing, and experimental evaluation. We develop automated testing techniques to uncover vulnerabilities and performance weaknesses, while exploring how AI agents can support systematic security analysis and testing. By working with real-world systems and collaborating with developers, we translate research findings into actionable disclosures, practical defenses, and tools that help make distributed systems more secure and dependable.
 
 Current Members
 ====
@@ -18,10 +20,11 @@ Current Members
 \- Ph.D. Students
 ----
 * <span style="color:blue">[Shixuan Guan](https://www.linkedin.com/in/sxguan)</span> (Fall 2024 - Present)
-  - Publications: ACM CCS 2024, ACM SIGMETRICS 2024, IEEE Blockchain 2023
+  - Publications: FC 2027, ACM CCS 2024, ACM SIGMETRICS 2024, IEEE Blockchain 2023
   - Awards: Most Outstanding CS Master Student at SDSU, ACM CCS 2024 Student Grant
 
 * <span style="color:blue">[Xiaocan Wang](https://www.linkedin.com/in/xiaocan-wang-137b4b332)</span> (Fall 2025 - Present)
+  - Publications: FC 2027
   - Awards: ACM CCS DEI Student Grant
 
 
@@ -69,7 +72,9 @@ Current Members
 Alumni
 ====
 * Aron Chen (Fall 2024 - Spring 2026), Master of Computer Science at SDSU
+  * Thesis: Understanding the Direct Messages In the Ethereum Blockchain
 * Yahui Jiang (Fall 2024 - Spring 2026), Master of Computer Science at SDSU
+  * Thesis: Understanding Transaction Propagation in Ethereum: Mechanisms, Implementation, and Performance Optimization
 * Jackson Keus (Fall 2023 - Spring 2025), Bachelor of Computer Science at SDSU
 * Darren Lee (Fall 2022 - Spring 2024), Bachelor of Computer Science at SDSU
 * Danyal Zina (Fall 2023 - Spring 2024), Bachelor of Computer Science at SDSU
