@@ -103,7 +103,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
   <img
     src="{{ '/images/lab/Spring_2024.jpg' | relative_url }}"
     alt="Group lunch in Spring 2024"
-    style="width: 100%; max-width: 800px; height: auto;"
+    style="width: 50%; max-width: 400px; height: auto;"
     loading="lazy">
   <figcaption>Group lunch in Texas Roadhouse · May 2024 </figcaption>
 </figure>
@@ -112,7 +112,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
   <img
     src="{{ '/images/lab/Fall_2024.jpg' | relative_url }}"
     alt="Group lunch in Fall 2024"
-    style="width: 100%; max-width: 800px; height: auto;"
+    style="width: 50%; max-width: 800px; height: auto;"
     loading="lazy">
   <figcaption>Group lunch in Szechuan Chef Chinese Cuisine · Dec. 2024</figcaption>
 </figure>
