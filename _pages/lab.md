@@ -153,7 +153,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
       src="{{ '/images/lab/Spring_2025.jpg' | relative_url }}"
       alt="Dr. Ju Chen's visit in Spring 2025"
       loading="lazy">
-    <figcaption>Spring 2025</figcaption>
+    <figcaption>Dr. Ju Chen's visit in Spring 2025</figcaption>
   </figure>
 
   <figure>
@@ -161,7 +161,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
       src="{{ '/images/lab/Fall_2025.jpg' | relative_url }}"
       alt="Group lunch at Yuan in Fall 2025"
       loading="lazy">
-    <figcaption>Fall 2025</figcaption>
+    <figcaption>Group lunch at Yuan in Fall 2025</figcaption>
   </figure>
 
   <figure>
@@ -169,7 +169,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
       src="{{ '/images/lab/Spring_2026.jpg' | relative_url }}"
       alt="Group lunch at Xiao Chuan Dian BBQ in Spring 2026"
       loading="lazy">
-    <figcaption>Spring 2026</figcaption>
+    <figcaption>Group lunch at Xiao Chuan Dian BBQ in Spring 2026</figcaption>
   </figure>
 
 </div>
