@@ -99,6 +99,33 @@ Lab Life
 
 Beyond research, we enjoy sharing meals, celebrating milestones, and spending time together. Here are a few moments from life in DSSL.
 
+<style>
+.lab-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px 20px;
+  max-width: 820px;
+}
+
+.lab-gallery > figure {
+  display: block;
+  margin: 0;
+  min-width: 0;
+}
+
+.lab-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.lab-gallery figcaption {
+  margin-top: 8px;
+  font-size: 0.85em;
+  line-height: 1.4;
+}
+</style>
+
 <div class="lab-gallery">
 
   <figure>
@@ -106,7 +133,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
       src="{{ '/images/lab/Spring_2026.jpg' | relative_url }}"
       alt="Lab gathering in Spring 2026"
       loading="lazy">
-    <figcaption>Spring 2026</figcaption>
+    <figcaption>Group Lunch at Xiao Chuan Dian BBQ · May 2026</figcaption>
   </figure>
 
   <figure>
@@ -114,15 +141,15 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
       src="{{ '/images/lab/Fall_2025.jpg' | relative_url }}"
       alt="Lab gathering in Fall 2025"
       loading="lazy">
-    <figcaption>Fall 2025</figcaption>
+    <figcaption>Group Lunch at Yuan· Dec. 2025</figcaption>
   </figure>
 
   <figure>
     <img
       src="{{ '/images/lab/Spring_2025.jpg' | relative_url }}"
-      alt="Lab gathering in Spring 2025"
+      alt="Dr. Ju Chen"
       loading="lazy">
-    <figcaption>Spring 2025</figcaption>
+    <figcaption>Dr. Ju Chen's visit in 2025</figcaption>
   </figure>
 
   <figure>
@@ -147,7 +174,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
 
   <figure>
     <img
-      src="{{ '/images/lab/Wang_CCS24.JPG' | relative_url }}"
+      src="{{ '/images/lab/Wang_CCS24.jpg' | relative_url }}"
       alt="Xiaocan Wang at ACM CCS 2024"
       loading="lazy">
     <figcaption>
@@ -164,8 +191,6 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
       Group lunch at Texas Roadhouse · May 2024
     </figcaption>
   </figure>
-
-</div>
 
 </div>
 
