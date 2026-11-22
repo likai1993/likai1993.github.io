@@ -174,7 +174,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
 
   <figure>
     <img
-      src="{{ '/images/lab/Wang_CCS24.jpg' | relative_url }}"
+      src="{{ '/images/lab/Wang_CCS24.jpeg' | relative_url }}"
       alt="Xiaocan Wang at ACM CCS 2024"
       loading="lazy">
     <figcaption>
