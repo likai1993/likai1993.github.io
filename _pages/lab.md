@@ -99,43 +99,30 @@ Lab Life
 
 Beyond research, we enjoy sharing meals, celebrating milestones, and spending time together. Here are a few moments from life in DSSL.
 
-<style>
-.lab-gallery {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 24px 20px;
-  max-width: 820px;
-}
-
-.lab-gallery figure {
-  margin: 0;
-  min-width: 0;
-}
-
-.lab-gallery img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-@media (max-width: 600px) {
-  .lab-gallery {
-    grid-template-columns: 1fr;
-    max-width: 400px;
-  }
-}
-</style>
-
 <div class="lab-gallery">
 
   <figure>
     <img
-      src="{{ '/images/lab/Spring_2024.jpg' | relative_url }}"
-      alt="Group lunch in Spring 2024"
+      src="{{ '/images/lab/Spring_2026.jpg' | relative_url }}"
+      alt="Lab gathering in Spring 2026"
       loading="lazy">
-    <figcaption>
-      Group lunch at Texas Roadhouse · May 2024
-    </figcaption>
+    <figcaption>Spring 2026</figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/lab/Fall_2025.jpg' | relative_url }}"
+      alt="Lab gathering in Fall 2025"
+      loading="lazy">
+    <figcaption>Fall 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/lab/Spring_2025.jpg' | relative_url }}"
+      alt="Lab gathering in Spring 2025"
+      loading="lazy">
+    <figcaption>Spring 2025</figcaption>
   </figure>
 
   <figure>
@@ -150,27 +137,35 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
 
   <figure>
     <img
-      src="{{ '/images/lab/Spring_2025.jpg' | relative_url }}"
-      alt="Dr. Ju Chen's visit in Spring 2025"
+      src="{{ '/images/lab/Guan_CCS24.jpg' | relative_url }}"
+      alt="Shixuan Guan at ACM CCS 2024"
       loading="lazy">
-    <figcaption>Dr. Ju Chen's visit in Spring 2025</figcaption>
+    <figcaption>
+      Shixuan Guan at ACM CCS 2024 · Oct. 2024
+    </figcaption>
   </figure>
 
   <figure>
     <img
-      src="{{ '/images/lab/Fall_2025.jpg' | relative_url }}"
-      alt="Group lunch at Yuan in Fall 2025"
+      src="{{ '/images/lab/Wang_CCS24.JPG' | relative_url }}"
+      alt="Xiaocan Wang at ACM CCS 2024"
       loading="lazy">
-    <figcaption>Group lunch at Yuan in Fall 2025</figcaption>
+    <figcaption>
+      Xiaocan Wang at ACM CCS 2024 · Oct. 2024
+    </figcaption>
   </figure>
 
   <figure>
     <img
-      src="{{ '/images/lab/Spring_2026.jpg' | relative_url }}"
-      alt="Group lunch at Xiao Chuan Dian BBQ in Spring 2026"
+      src="{{ '/images/lab/Spring_2024.jpg' | relative_url }}"
+      alt="Group lunch in Spring 2024"
       loading="lazy">
-    <figcaption>Group lunch at Xiao Chuan Dian BBQ in Spring 2026</figcaption>
+    <figcaption>
+      Group lunch at Texas Roadhouse · May 2024
+    </figcaption>
   </figure>
+
+</div>
 
 </div>
 
