@@ -99,6 +99,82 @@ Lab Life
 
 Beyond research, we enjoy sharing meals, celebrating milestones, and spending time together. Here are a few moments from life in DSSL.
 
+<style>
+.lab-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px 20px;
+  max-width: 820px;
+}
+
+.lab-gallery figure {
+  margin: 0;
+  min-width: 0;
+}
+
+.lab-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .lab-gallery {
+    grid-template-columns: 1fr;
+    max-width: 400px;
+  }
+}
+</style>
+
+<div class="lab-gallery">
+
+  <figure>
+    <img
+      src="{{ '/images/lab/Spring_2024.jpg' | relative_url }}"
+      alt="Group lunch in Spring 2024"
+      loading="lazy">
+    <figcaption>
+      Group lunch at Texas Roadhouse · May 2024
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/lab/Fall_2024.jpg' | relative_url }}"
+      alt="Group lunch in Fall 2024"
+      loading="lazy">
+    <figcaption>
+      Group lunch at Szechuan Chef Chinese Cuisine · Dec. 2024
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/lab/Spring_2025.jpg' | relative_url }}"
+      alt="Dr. Ju Chen's visit in Spring 2025"
+      loading="lazy">
+    <figcaption>Spring 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/lab/Fall_2025.jpg' | relative_url }}"
+      alt="Group lunch at Yuan in Fall 2025"
+      loading="lazy">
+    <figcaption>Fall 2025</figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/lab/Spring_2026.jpg' | relative_url }}"
+      alt="Group lunch at Xiao Chuan Dian BBQ in Spring 2026"
+      loading="lazy">
+    <figcaption>Spring 2026</figcaption>
+  </figure>
+
+</div>
+
+<!--
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <figure style="flex: 1 1 250px; max-width: 400px; margin: 0;">
@@ -122,8 +198,8 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
       Group lunch at Szechuan Chef Chinese Cuisine · Dec. 2024
     </figcaption>
   </figure>
-  
 </div>
+-->
 
 
 Student Opportunities
