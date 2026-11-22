@@ -101,7 +101,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
 
 <figure>
   <img
-    src="{{ '/images/Spring_2024.HEIC' | relative_url }}"
+    src="{{ '/images/lab/Spring_2024.jpg' | relative_url }}"
     alt="Group lunch in Spring 2024"
     style="width: 100%; max-width: 800px; height: auto;"
     loading="lazy">
@@ -110,7 +110,7 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
 
 <figure>
   <img
-    src="{{ '/images/Fall_2024.HEIC' | relative_url }}"
+    src="{{ '/images/lab/Fall_2024.jpg' | relative_url }}"
     alt="Group lunch in Fall 2024"
     style="width: 100%; max-width: 800px; height: auto;"
     loading="lazy">
