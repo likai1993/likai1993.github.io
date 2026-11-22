@@ -101,11 +101,20 @@ Beyond research, we enjoy sharing meals, celebrating milestones, and spending ti
 
 <figure>
   <img
-    src="{{ '/images/lab/group-dinner.jpg' | relative_url }}"
+    src="{{ '/images/Spring_2024.HEIC' | relative_url }}"
     alt="DSSL students enjoying a group dinner"
     style="width: 100%; max-width: 800px; height: auto;"
     loading="lazy">
-  <figcaption>Group dinner in Hoboken · November 2026</figcaption>
+  <figcaption>Group lunch in Texas Roadhouse · May 2024 </figcaption>
+</figure>
+
+<figure>
+  <img
+    src="{{ '/images/Fall_2024.HEIC' | relative_url }}"
+    alt="DSSL students enjoying a group dinner"
+    style="width: 100%; max-width: 800px; height: auto;"
+    loading="lazy">
+  <figcaption>Group lunch in Szechuan Chef Chinese Cuisine · Dec. 2024</figcaption>
 </figure>
 
 
