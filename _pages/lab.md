@@ -99,23 +99,31 @@ Lab Life
 
 Beyond research, we enjoy sharing meals, celebrating milestones, and spending time together. Here are a few moments from life in DSSL.
 
-<figure>
-  <img
-    src="{{ '/images/lab/Spring_2024.jpg' | relative_url }}"
-    alt="Group lunch in Spring 2024"
-    style="width: 50%; max-width: 400px; height: auto;"
-    loading="lazy">
-  <figcaption>Group lunch in Texas Roadhouse · May 2024 </figcaption>
-</figure>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<figure>
-  <img
-    src="{{ '/images/lab/Fall_2024.jpg' | relative_url }}"
-    alt="Group lunch in Fall 2024"
-    style="width: 50%; max-width: 400px; height: auto;"
-    loading="lazy">
-  <figcaption>Group lunch in Szechuan Chef Chinese Cuisine · Dec. 2024</figcaption>
-</figure>
+  <figure style="flex: 1 1 250px; max-width: 400px; margin: 0;">
+    <img
+      src="{{ '/images/lab/Spring_2024.jpg' | relative_url }}"
+      alt="Group lunch in Spring 2024"
+      style="display: block; width: 100%; height: auto;"
+      loading="lazy">
+    <figcaption>
+      Group lunch at Texas Roadhouse · May 2024
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 250px; max-width: 400px; margin: 0;">
+    <img
+      src="{{ '/images/lab/Fall_2024.jpg' | relative_url }}"
+      alt="Group lunch in Fall 2024"
+      style="display: block; width: 100%; height: auto;"
+      loading="lazy">
+    <figcaption>
+      Group lunch at Szechuan Chef Chinese Cuisine · Dec. 2024
+    </figcaption>
+  </figure>
+  
+</div>
 
 
 Student Opportunities
